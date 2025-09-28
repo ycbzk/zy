@@ -658,7 +658,7 @@
     },
     {
       "key": "push_agent",
-      "name": "⭐公众号：宇辰宝藏库",
+      "name": "⭐公众号┃宇辰宝藏库",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
@@ -885,3 +885,4 @@
     }
   ]
 }
+
