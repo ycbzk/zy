@@ -655,7 +655,17 @@
         "type": "rect",
         "ratio": 1.333
       }
-    ],
+    },
+    {
+      "key": "push_agent",
+      "name": "⭐公众号：宇辰宝藏库",
+      "type": 3,
+      "api": "csp_Push",
+      "playerType": "1",
+      "searchable": 0,
+      "ext": ".json/txt/ken.txt"
+    }
+  ],
   "parses": [
     {
       "name": "Json聚合",
@@ -875,7 +885,3 @@
     }
   ]
 }
-
-
-
-
