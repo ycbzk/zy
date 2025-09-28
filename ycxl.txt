@@ -1,4 +1,6 @@
 {
+  "spider": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "豆瓣",
@@ -882,5 +884,6 @@
     }
   ]
 }
+
 
 
