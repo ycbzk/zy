@@ -88,6 +88,37 @@
       "ext": "https://www.wogg.one/"
     },
     {
+      "key": "咖啡",
+      "name": "🍫咖啡┃App",
+      "type": 3,
+      "api": "csp_KaFeiGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "仓鼠",
+      "name": "🐹仓鼠┃App",
+      "type": 3,
+      "api": "csp_CangShuGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "韩圈",
+      "name": "🦄韩圈┃App",
+      "type": 3,
+      "api": "csp_HanXiaoQuanGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
       "key": "潮流",
       "name": "🏜┃潮流┃APP",
       "type": 3,
@@ -369,6 +400,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
+    },
+    {
+      "key": "星芽短剧",
+      "name": "💖星芽┃短剧",
+      "type": 3,
+      "api": "csp_AppXYGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "甜圈短剧",
+      "name": "🌸甜圈┃短剧",
+      "type": 3,
+      "api": "csp_TianQuanGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
     },
     {
       "key": "零度",
@@ -858,5 +909,6 @@
     }
   ]
 }
+
 
 
