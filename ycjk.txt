@@ -1,7 +1,8 @@
 {
-  "spider": "https://coss.yupoo.com/upchat/2025-09-27/1758984174322.jpg;md5;cba66f046cc8da91e888605c155828a3",
-  "wallpaper": "https://深色壁纸.xxooo.cf/", 
-"sites": [
+  "spider": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "logo": "https://6296.kstore.vip/9c633894549b4d2677774e402cedf6e819462bf1-min.gif",
+  "sites": [
 {"key":"drpy_js_豆瓣","name":"⭐┃公众号┃宇辰宝藏库","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣","name":"⭐┃豆瓣┃预告","type":3,"api":"csp_YGP","playerType":2,"searchable":0},
 {"key":"config","name":"⭐┃配置┃中心","type":3,"api":"csp_Config","playerType":2},
@@ -70,4 +71,5 @@
 ]
 
 }
+
 
