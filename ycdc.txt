@@ -5,10 +5,6 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
     },
     {
-      "name": "备用⭐在线",
-      "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
-    },
-    {
       "name": "小米⭐在线",
       "url": "http://miqk.cc/小米/DEMO.json"
     },
@@ -191,3 +187,4 @@
   ]
 
 }
+
