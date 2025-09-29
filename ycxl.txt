@@ -1,5 +1,5 @@
 {
-  "spider":"spider": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+  "spider":
   "sites": [
     {
       "key": "豆瓣",
@@ -665,5 +665,6 @@
     }
   ]
 }
+
 
 
