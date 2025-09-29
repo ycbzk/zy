@@ -183,6 +183,9 @@
     {
       "name": "各种网盘⭐在线",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
+    },
+    {
+      "name": "公众号⭐宇辰宝藏库"
     }
   ]
 }
