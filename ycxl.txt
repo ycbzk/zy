@@ -1,5 +1,5 @@
 {
-  "spider": "http://ycbzk.dpdns.org/ycbzk.jpg",
+  "spider": "http://ycbzk.dpdns.org/ycbzk.jpg;md5;faff0adc799face065ec66a0ee01761e",
   "logo": "http://ycbzk.dpdns.org/ycbzk.jpg",
   "sites": [
     {
@@ -666,6 +666,7 @@
     }
   ]
 }
+
 
 
 
