@@ -1,5 +1,6 @@
 {
-  "spider": "./jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
+  "https://ycbzk.dpdns.org/ycbzk.jpg;md5;710E37CB92A6743A351413EC9D7EBCE4",
+  "logo": "https://ycbzk.dpdns.org/ycbzk.jpg",
   "sites": [
     {
       "key": "豆瓣",
@@ -665,3 +666,4 @@
     }
   ]
 }
+
