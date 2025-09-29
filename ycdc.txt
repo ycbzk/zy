@@ -2,7 +2,7 @@
   "urls": [
     {
       "name": "宇辰⭐在线",
-      "url": "https://zy.ycbzk.dpdns.org/ycxl.txt"
+      "url": "https://ycbzk.dpdns.org/ycxl.txt"
     },
     {
       "name": "拾光⭐在线",
