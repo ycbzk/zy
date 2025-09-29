@@ -1,5 +1,6 @@
 {
   "spider": 
+  "logo": "http://ycbzk.dpdns.org/ycbzk.jpg",
   "sites": [
     {
       "key": "豆瓣",
@@ -665,6 +666,7 @@
     }
   ]
 }
+
 
 
 
