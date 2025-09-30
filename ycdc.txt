@@ -185,7 +185,7 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
     },
     {
-      "name": "公众号⭐宇辰宝藏库"
+      "name": "公众号⭐宇辰宝藏库",
       "url": "https://zy.ycbzk.dpdns.org/ycxl.txt"
     }
   ]
