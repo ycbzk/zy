@@ -29,8 +29,8 @@
       "url": "http://肥猫.com"
     },
     {
-      "name": "欧歌⭐线路",
-      "url": "https://欧歌.v.nxog.top/m/"
+      "name": "饭太硬⭐线路",
+      "url": "http://www.饭太硬.com/tv"
     },
     {
       "name": "Clun⭐线路",
@@ -65,7 +65,7 @@
       "url": "http://szyyds.cn/tv/x.json"
     },
     {
-      "name": "寳盒⭐线路",
+      "name": "宝盒⭐线路",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json"
     },
     {
