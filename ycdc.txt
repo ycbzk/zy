@@ -69,14 +69,6 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json"
     },
     {
-      "name": "特别⭐线路",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/drpys/jsm.json"
-    },
-    {
-      "name": "CandyMu⭐线路",
-      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
-    },
-    {
       "name": "公众号⭐宇辰宝藏库",
       "url": "https://zy.ycbzk.dpdns.org/ycxl.txt"
     }
