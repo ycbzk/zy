@@ -1,4 +1,6 @@
 {
+  "spider": "https://www.lequxiang.com.cn/down.php/3c9e95c6e8487943cd8f90a2b9da3b4d.txt;md5;3c9e95c6e8487943cd8f90a2b9da3b4d",
+  "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://ycbzk.dpdns.org/ycbzk.jpg",
   "sites": [
     {
