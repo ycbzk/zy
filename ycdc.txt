@@ -186,6 +186,7 @@
     },
     {
       "name": "公众号⭐宇辰宝藏库"
+      "url": "https://ycbzk.dpdns.org/ycxl.txt"
     }
   ]
 }
