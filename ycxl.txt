@@ -38,7 +38,7 @@
     },
     {
       "key": "热播影视",
-      "name": "热播⭐APP",
+      "name": "热播⭐弹幕",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -49,36 +49,8 @@
       }
     },
     {
-      "key": "浪酷影视",
-      "name": "浪酷⭐APP",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.lkuys.cn"
-      }
-    },
-    {
-      "key": "加菲",
-      "name": "加菲⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt",
-        "dataKey": "dksvndkaAjekakcE",
-        "dataIv": "dksvndkaAjekakcE",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
       "key": "咖啡",
-      "name": "咖啡⭐APP",
+      "name": "咖啡⭐弹幕",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -94,7 +66,7 @@
     },
     {
       "key": "哔滴",
-      "name": "哔滴⭐APP",
+      "name": "哔滴⭐弹幕",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -110,7 +82,7 @@
     },
     {
       "key": "若雪",
-      "name": "若雪⭐APP",
+      "name": "若雪⭐弹幕",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -121,6 +93,269 @@
         "dataIv": "ZX10ysTYZWtIJCTU",
         "deviceId": "",
         "version": "120"
+      }
+    },
+    {
+      "key": "仓鼠",
+      "name": "仓鼠⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "",
+        "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
+        "dataKey": "da61247f5b662597",
+        "dataIv": "da61247f5b662597",
+        "deviceId": "",
+        "version": "120"
+      }
+    },
+    {
+      "key": "鲸鱼",
+      "name": "鲸鱼⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "",
+        "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+        "dataKey": "AAdgrdghjfgswerA",
+        "dataIv": "AAdgrdghjfgswerA",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "热剧",
+      "name": "热剧⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "https://www.rebovod.com",
+        "site": "",
+        "dataKey": "8191A7F47B37882F",
+        "dataIv": "8191A7F47B37882F",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
+      "key": "影视",
+      "name": "影视⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "",
+        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
+        "dataKey": "sada21321sdq231d",
+        "dataIv": "sada21321sdq231d",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
+      "key": "狂欢",
+      "name": "狂欢⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://m.m.m.kahzw.com",
+        "site": "",
+        "dataKey": "xnybssspqtwotuwj",
+        "dataIv": "xnybssspqtwotuwj",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
+      "key": "萝卜",
+      "name": "萝卜⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://apiapplbys.lbys.app:5678",
+        "dataKey": "apiapplbyskey168",
+        "dataIv": "apiapplbyskey168",
+        "deviceId": "",
+        "version": "107"
+      }
+    },
+    {
+      "key": "火狐",
+      "name": "火狐⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://huohu.yihn.cc",
+        "site": "",
+        "dataKey": "huohushipingetap",
+        "dataIv": "huohushipingetap",
+        "deviceId": "",
+        "version": "140",
+        "ua": ""
+      }
+    },
+    {
+      "key": "云端",
+      "name": "云端⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899",
+        "site": "",
+        "dataKey": "k9o3p2c8b7m3z0o8",
+        "dataIv": "k9o3p2c8b7m3z0o8",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "光影",
+      "name": "光影⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.guangyingmi.com",
+        "dataKey": "230fnsodfsdhfon2",
+        "dataIv": "230fnsodfsdhfon2",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "莱米",
+      "name": "莱米⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
+        "dataKey": "ce032244d093b3e2",
+        "dataIv": "ce032244d093b3e2",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "灵虎",
+      "name": "灵虎⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "https://bind.315999.xyz/89.txt",
+        "dataKey": "#getapp@TMD@2025",
+        "dataIv": "#getapp@TMD@2025",
+        "deviceId": "",
+        "version": "120"
+      }
+   },
+   {
+      "key": "五八",
+      "name": "五八⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://dy.58ys.vip",
+        "site": "",
+        "dataKey": "JEWibY1AgWF0V1xx",
+        "dataIv": "JEWibY1AgWF0V1xx",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
+      "key": "狂人",
+      "name": "狂人⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.zjkrmv.vip",
+        "site": "",
+        "dataKey": "vXeyuJFqTKqWUtWU",
+        "dataIv": "vXeyuJFqTKqWUtWU",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
+      "key": "驿站",
+      "name": "驿站⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
+        "dataKey": "dyyztvapiappyyds",
+        "dataIv": "dyyztvapiappyyds",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
+      "key": "豆丁",
+      "name": "豆丁⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://45.66.157.77:9427",
+        "site": "",
+        "dataKey": "Xasdasd!123123dd",
+        "dataIv": "Xasdasd!123123dd",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
+      "key": "斗量",
+      "name": "斗量⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "https://app-cms-v10-1314306855.cos.ap-guangzhou.myqcloud.com/appcms.php",
+        "dataKey": "A1akVPQmnnE4Fz9Z",
+        "dataIv": "A1akVPQmnnE4Fz9Z",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
+      "key": "迪吧",
+      "name": "迪吧⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "https://appto2-1316376600.cos.ap-beijing.myqcloud.com/gap.txt",
+        "dataKey": "685bf108bc47b67d",
+        "dataIv": "685bf108bc47b67d",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
       }
     },
     {
@@ -139,132 +374,6 @@
       }
     },
     {
-      "key": "仓鼠",
-      "name": "仓鼠⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
-        "dataKey": "da61247f5b662597",
-        "dataIv": "da61247f5b662597",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
-      "key": "鲸鱼",
-      "name": "鲸鱼⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
-        "dataKey": "AAdgrdghjfgswerA",
-        "dataIv": "AAdgrdghjfgswerA",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "热剧",
-      "name": "热剧⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "https://www.rebovod.com",
-        "site": "",
-        "dataKey": "8191A7F47B37882F",
-        "dataIv": "8191A7F47B37882F",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "影视",
-      "name": "影视⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
-        "dataKey": "sada21321sdq231d",
-        "dataIv": "sada21321sdq231d",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "狂欢",
-      "name": "狂欢⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://m.m.m.kahzw.com",
-        "site": "",
-        "dataKey": "xnybssspqtwotuwj",
-        "dataIv": "xnybssspqtwotuwj",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "奈飞",
-      "name": "奈飞⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://movier.ink",
-        "site": "",
-        "dataKey": "moviermovierink9",
-        "dataIv": "moviermovierink9",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "迪吧",
-      "name": "迪吧⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://appto2-1316376600.cos.ap-beijing.myqcloud.com/gap.txt",
-        "dataKey": "685bf108bc47b67d",
-        "dataIv": "685bf108bc47b67d",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "米奇",
-      "name": "米奇⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://www.milkidc.cn",
-        "site": "",
-        "dataKey": "20c79c979da8db0f",
-        "dataIv": "20c79c979da8db0f",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
       "key": "星星",
       "name": "星星⭐APP",
       "type": 3,
@@ -278,54 +387,6 @@
         "deviceId": "",
         "version": "",
         "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
-      }
-    },
-    {
-      "key": "像素",
-      "name": "像素⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://mcvod.top",
-        "site": "",
-        "dataKey": "cnmbknmbtounimab",
-        "dataIv": "cnmbknmbtounimab",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "豆丁",
-      "name": "豆丁⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://45.66.157.77:9427",
-        "site": "",
-        "dataKey": "Xasdasd!123123dd",
-        "dataIv": "Xasdasd!123123dd",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "斗量",
-      "name": "斗量⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://app-cms-v10-1314306855.cos.ap-guangzhou.myqcloud.com/appcms.php",
-        "dataKey": "A1akVPQmnnE4Fz9Z",
-        "dataIv": "A1akVPQmnnE4Fz9Z",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
       }
     },
     {
@@ -361,70 +422,6 @@
       }
     },
     {
-      "key": "布雷",
-      "name": "布雷⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://cms.bl4k.cc",
-        "site": "",
-        "dataKey": "B7uaxcwdpX2dww82",
-        "dataIv": "B7uaxcwdpX2dww82",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "五八",
-      "name": "五八⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://dy.58ys.vip",
-        "site": "",
-        "dataKey": "JEWibY1AgWF0V1xx",
-        "dataIv": "JEWibY1AgWF0V1xx",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "狂人",
-      "name": "狂人⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.zjkrmv.vip",
-        "site": "",
-        "dataKey": "vXeyuJFqTKqWUtWU",
-        "dataIv": "vXeyuJFqTKqWUtWU",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "驿站",
-      "name": "驿站⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
-        "dataKey": "dyyztvapiappyyds",
-        "dataIv": "dyyztvapiappyyds",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
       "key": "外剧",
       "name": "外剧⭐APP",
       "type": 3,
@@ -438,112 +435,6 @@
         "deviceId": "",
         "version": "",
         "ua": ""
-      }
-    },
-    {
-      "key": "爱影",
-      "name": "爱影⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://app.lkdyw.cn",
-        "site": "",
-        "dataKey": "e65144389e9361b5",
-        "dataIv": "e65144389e9361b5",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "火狐",
-      "name": "火狐⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://huohu.yihn.cc",
-        "site": "",
-        "dataKey": "huohushipingetap",
-        "dataIv": "huohushipingetap",
-        "deviceId": "",
-        "version": "140",
-        "ua": ""
-      }
-    },
-    {
-      "key": "云端",
-      "name": "云端⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899",
-        "site": "",
-        "dataKey": "k9o3p2c8b7m3z0o8",
-        "dataIv": "k9o3p2c8b7m3z0o8",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "光影",
-      "name": "光影⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.guangyingmi.com",
-        "dataKey": "230fnsodfsdhfon2",
-        "dataIv": "230fnsodfsdhfon2",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "莱米",
-      "name": "莱米⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
-        "dataKey": "ce032244d093b3e2",
-        "dataIv": "ce032244d093b3e2",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "灵虎",
-      "name": "灵虎⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://bind.315999.xyz/89.txt",
-        "dataKey": "#getapp@TMD@2025",
-        "dataIv": "#getapp@TMD@2025",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
-      "key": "旗星",
-      "name": "旗星⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://ys.qist.top",
-        "site": "",
-        "dataKey": "2SWSPFxugBLPPOKo",
-        "dataIv": "2SWSPFxugBLPPOKo",
-        "deviceId": "",
-        "version": "120"
       }
     },
     {
@@ -573,49 +464,6 @@
         "dataIv": "4d83b87c4c5ea111",
         "deviceId": "",
         "version": "105"
-      }
-    },
-    {
-      "key": "萝卜",
-      "name": "萝卜⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://apiapplbys.lbys.app:5678",
-        "dataKey": "apiapplbyskey168",
-        "dataIv": "apiapplbyskey168",
-        "deviceId": "",
-        "version": "107"
-      }
-    },
-    {
-      "key": "米兔",
-      "name": "米兔⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://new.tkbot.fun",
-        "dataKey": "d032c12876bc6848",
-        "dataIv": "d032c12876bc6848",
-        "deviceId": "",
-        "version": "200"
-      }
-    },
-    {
-      "key": "白蛇",
-      "name": "白蛇⭐APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
-        "dataKey": "n3l2tx5jdkp9s2c8",
-        "dataIv": "n3l2tx5jdkp9s2c8",
-        "deviceId": "",
-        "version": "361"
       }
     },
     {
@@ -1066,6 +914,18 @@
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "浪酷影视",
+      "name": "浪酷⭐影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.lkuys.cn"
+      }
     },
     {
       "key": "厂长影视",
