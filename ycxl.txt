@@ -65,6 +65,22 @@
       }
     },
     {
+      "key": "紫金",
+      "name": "紫金⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://www.zjcvod.com",
+        "site": "",
+        "dataKey": "ab4e9a421675f14b",
+        "dataIv": "ab4e9a421675f14b",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
       "key": "哔滴",
       "name": "哔滴⭐弹幕",
       "type": 3,
@@ -2247,4 +2263,5 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
