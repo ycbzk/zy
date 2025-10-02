@@ -70,7 +70,7 @@
     },
     {
       "name": "公众号⭐宇辰宝藏库",
-      "url": "https://zy.ycbzk.dpdns.org/ycxl.txt"
+      "url": "https://ycbzk.dpdns.org/ycxl.txt"
     }
   ]
 }
