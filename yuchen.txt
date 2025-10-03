@@ -1,4 +1,5 @@
 {
+  "spider":http://zy.ycbzk.dpdns.org/ycbzk.jpg
   "sites": [
     {
       "key": "豆瓣",
@@ -2260,4 +2261,5 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
