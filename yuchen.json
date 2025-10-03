@@ -1,7 +1,7 @@
 {
   "spider": "https://zy.ycbzk.dpdns.org/spider.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "logo": "http://zy.ycbzk.dpdns.org/ycbzk.jpg",
+  "logo": "https://zy.ycbzk.dpdns.org/ycbzk.jpg",
   "sites": [
     {
       "key": "豆瓣",
@@ -2263,6 +2263,7 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
 
 
