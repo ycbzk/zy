@@ -1,4 +1,5 @@
 {
+  "spider": ""
   "sites": [
     {
       "key": "豆瓣",
@@ -2260,4 +2261,5 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
