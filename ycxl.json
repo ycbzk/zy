@@ -1,5 +1,5 @@
 {
-  "spider": "./yuchen.jar",
+  "spider": "https://zy.ycbzk.dpdns.org/yuchen.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "https://zy.ycbzk.dpdns.org/ycbzk.jpg",
   "sites": [
@@ -2322,3 +2322,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
