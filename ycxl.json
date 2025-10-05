@@ -37,6 +37,17 @@
       }
     },
     {
+      "key": "AppQi1",
+      "name": "爱影⭐弹幕",
+      "type": 3,
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
+      "api": "csp_AppQi",
+      "changeable": "0",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc="
+    },
+    {
       "key": "热播影视",
       "name": "热播⭐弹幕",
       "type": 3,
