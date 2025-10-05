@@ -37,6 +37,19 @@
       }
     },
     {
+      "key": "配置中心",
+      "name": "☀配置中心☀",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
       "key": "AppQi1",
       "name": "爱影⭐弹幕",
       "type": 3,
@@ -2330,3 +2343,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
