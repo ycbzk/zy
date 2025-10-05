@@ -24,14 +24,15 @@
       "api": "csp_LocalFile"
     },
     {
-      "key": "ConfigCenter",
-      "name": "🅿网盘配置中心",
+      "key": "网盘配置",
+      "name": "🍭┃配置┃中心",
       "type": 3,
-      "api": "csp_ConfigCenter",
+      "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext": {
-        "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/peizhi.json"
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
       }
     },
     {
@@ -2320,6 +2321,7 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
 
 
