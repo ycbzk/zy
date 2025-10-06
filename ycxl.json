@@ -37,6 +37,53 @@
       }
     },
     {
+      "key": "豆丁",
+      "name": "豆丁4K⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://45.66.157.77:9427",
+        "site": "",
+        "dataKey": "Xasdasd!123123dd",
+        "dataIv": "Xasdasd!123123dd",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
+      "key": "鲸鱼",
+      "name": "鲸鱼4K⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "",
+        "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
+        "dataKey": "AAdgrdghjfgswerA",
+        "dataIv": "AAdgrdghjfgswerA",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
+      "key": "九零",
+      "name": "九零⭐弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://65fs2d9awaa1d2a7ea8.019990.xyz",
+        "site": "",
+        "dataKey": "5a9w6x58dsq6z3a6",
+        "dataIv": "5a9w6x58dsq6z3a6",
+        "deviceId": "",
+        "version": "",
+        "ua": ""
+      }
+    },
+    {
       "key": "AppQi1",
       "name": "爱影⭐弹幕",
       "type": 3,
@@ -135,21 +182,6 @@
         "dataIv": "da61247f5b662597",
         "deviceId": "",
         "version": "120"
-      }
-    },
-    {
-      "key": "鲸鱼",
-      "name": "鲸鱼⭐弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
-        "dataKey": "AAdgrdghjfgswerA",
-        "dataIv": "AAdgrdghjfgswerA",
-        "deviceId": "",
-        "version": ""
       }
     },
     {
@@ -332,22 +364,6 @@
         "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
         "dataKey": "dyyztvapiappyyds",
         "dataIv": "dyyztvapiappyyds",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "豆丁",
-      "name": "豆丁⭐弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://45.66.157.77:9427",
-        "site": "",
-        "dataKey": "Xasdasd!123123dd",
-        "dataIv": "Xasdasd!123123dd",
         "deviceId": "",
         "version": "",
         "ua": ""
@@ -571,6 +587,22 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
+    },
+    {
+      "key": "小猪",
+      "name": "小猪⭐APP",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "",
+        "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
+        "dataKey": "seb5tq9mykp2w9ry",
+        "dataIv": "seb5tq9mykp2w9ry",
+        "deviceId": "",
+        "version": "",
+        "ua": "okhttp/3.10.0"
+      }
     },
     {
       "key": "蓝鹰",
