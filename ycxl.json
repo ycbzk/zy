@@ -5,27 +5,27 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "公众号⭐宇辰宝藏库",
+      "name": "公众号✨宇辰宝藏库",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     {
       "key": "预告",
-      "name": "新片⭐预告",
+      "name": "新片✨预告",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0
     },
     {
       "key": "本地",
-      "name": "本地⭐视频",
+      "name": "本地✨视频",
       "type": 3,
       "api": "csp_LocalFile"
     },
     {
       "key": "配置中心",
-      "name": "配置⭐中心",
+      "name": "配置✨中心",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -504,7 +504,7 @@
     },
     {
       "key": "低端影视",
-      "name": "低端💖影视",
+      "name": "低端💥影视",
       "type": 3,
       "api": "csp_Ddys",
       "searchable": 1,
@@ -513,7 +513,7 @@
     },
     {
       "key": "瓜子影视",
-      "name": "瓜子💖影视",
+      "name": "瓜子💥影视",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -522,7 +522,7 @@
     },
     {
       "key": "骚火影视",
-      "name": "骚火💖影视",
+      "name": "骚火💥影视",
       "type": 3,
       "api": "csp_SaoHuo",
       "playerType": 2,
@@ -530,14 +530,14 @@
     },
     {
       "key": "农民影视",
-      "name": "农民💖影视",
+      "name": "农民💥影视",
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn"
     },
     {
       "key": "爱看机器人",
-      "name": "爱看💖影视",
+      "name": "爱看💥影视",
       "type": 3,
       "api": "csp_Ikanbot",
       "searchable": 1,
@@ -546,7 +546,7 @@
     },
     {
       "key": "面包影视",
-      "name": "面包💖影视",
+      "name": "面包💥影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/MBYS.json"
@@ -1220,8 +1220,8 @@
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/DJWu.json"
     },
     {
-      "key": "哆啦新番社",
-      "name": "哆啦🧸新番社",
+      "key": "哆啦动漫",
+      "name": "哆啦🧸动漫",
       "type": 3,
       "api": "csp_XBPQ",
       "style": {
