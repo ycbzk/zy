@@ -1,5 +1,5 @@
 {
-  "spider": "https://zy.ycbzk.dpdns.org/yuchen.jar",
+  "spider": "https://zy.ycbzk.dpdns.org/spider.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "https://zy.ycbzk.dpdns.org/ycbzk.jpg",
   "sites": [
@@ -35,14 +35,6 @@
         "type": "rect",
         "ratio": 1.597
       }
-    },
-    {
-      "key": "lanyingys",
-      "name": "橘子⭐弹幕",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8"
     },
     {
       "key": "AppQi1",
