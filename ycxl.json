@@ -403,7 +403,7 @@
     },
     {
       "key": "大豆",
-      "name": "大豆💖影视",
+      "name": "大豆💥影视",
       "type": 3,
       "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
       "quickSearch": 0,
@@ -413,7 +413,7 @@
     },
      {
       "key": "天翼影视",
-      "name": "天翼💖影视",
+      "name": "天翼💥影视",
       "type": 1,
       "api": "http://7.qqqtv.top/api.php/provide/vod/",
       "searchable": 1,
@@ -429,7 +429,7 @@
     },
     {
       "key": "猎手影视",
-      "name": "猎手💖影视",
+      "name": "猎手💥影视",
       "type": 3,
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/LSYS.py",
       "searchable": 1,
@@ -439,7 +439,7 @@
     },
     {
       "key": "浪酷影视",
-      "name": "浪酷💖影视",
+      "name": "浪酷💥影视",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -451,7 +451,7 @@
     },
     {
       "key": "厂长影视",
-      "name": "厂长💖影视",
+      "name": "厂长💥影视",
       "type": 3,
       "playerType": "2",
       "api": "csp_Czsapp",
@@ -462,27 +462,27 @@
     },
     {
       "key": "金牌影视",
-      "name": "金牌💖影视",
+      "name": "金牌💥影视",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
       "key": "云播影视",
-      "name": "云播💖影视",
+      "name": "云播💥影视",
       "type": 3,
       "api": "csp_Tvyb",
       "ext": "http://www.viptv01.com"
     },
     {
       "key": "奇优影视",
-      "name": "奇优💖影视",
+      "name": "奇优💥影视",
       "type": 3,
       "api": "csp_Qiyou"
     },
     {
       "key": "苹果影视",
-      "name": "苹果💖影视",
+      "name": "苹果💥影视",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -491,14 +491,14 @@
     },
     {
       "key": "全网影视",
-      "name": "全看💖影视",
+      "name": "全看💥影视",
       "type": 3,
       "api": "csp_Quanwk",
       "ext": "https://www.91qkw.com"
     },
     {
       "key": "饺子影视",
-      "name": "饺子💖影视",
+      "name": "饺子💥影视",
       "type": 3,
       "api": "csp_Jiaozi"
     },
@@ -553,35 +553,35 @@
     },
     {
       "key": "永乐影视",
-      "name": "永乐💖影视",
+      "name": "永乐💥影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/YLYS.json"
     },
     {
       "key": "雪糕影视",
-      "name": "雪糕💖影视",
+      "name": "雪糕💥影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/XGYS.json"
     },
     {
       "key": "三九影视",
-      "name": "三九💖影视",
+      "name": "三九💥影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/SJYS.json"
     },
     {
       "key": "剧圈圈",
-      "name": "剧圈💖影视",
+      "name": "剧圈💥影视",
       "type": 3,
       "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/JQQ.js"
     },
     {
       "key": "1905",
-      "name": "1905💖影视",
+      "name": "1905💥影视",
       "type": 3,
       "api": "csp_Web1905",
       "searchable": 1,
@@ -590,13 +590,13 @@
     },
     {
       "key": "三六零",
-      "name": "三六零💖影视",
+      "name": "三六零💥影视",
       "type": 3,
       "api": "csp_SP360"
     },
     {
       "key": "小猪",
-      "name": "小猪💥APP",
+      "name": "小猪💥影视",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -612,7 +612,7 @@
     },
     {
       "key": "蓝鹰",
-      "name": "蓝鹰💥APP",
+      "name": "蓝鹰💥影视",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -627,7 +627,7 @@
     },
     {
       "key": "星星",
-      "name": "星星💥APP",
+      "name": "星星💥影视",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -643,7 +643,7 @@
     },
     {
       "key": "稀饭",
-      "name": "稀饭💥APP",
+      "name": "稀饭💥影视",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -659,7 +659,7 @@
     },
     {
       "key": "爱看",
-      "name": "爱看💥APP",
+      "name": "爱看💥影视",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -675,7 +675,7 @@
     },
     {
       "key": "外剧",
-      "name": "外剧💥APP",
+      "name": "外剧💥影视",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -691,7 +691,7 @@
     },
     {
       "key": "丫丫",
-      "name": "丫丫💥APP",
+      "name": "丫丫💥影视",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -705,7 +705,7 @@
     },
     {
       "key": "云速",
-      "name": "云速💥APP",
+      "name": "云速💥影视",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -716,17 +716,6 @@
         "dataIv": "4d83b87c4c5ea111",
         "deviceId": "",
         "version": "105"
-      }
-    },
-    {
-      "key": "移动",
-      "name": "移动💥APP",
-      "type": 3,
-      "api": "csp_YD",
-      "searchable": 1,
-      "quickSearch": 1,
-      "style": {
-        "type": "list"
       }
     },
     {
@@ -1068,6 +1057,17 @@
       "style": {
         "type": "list",
         "ratio": 1.433
+      }
+    },
+    {
+      "key": "移动",
+      "name": "移动📀云盘",
+      "type": 3,
+      "api": "csp_YD",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "list"
       }
     },
     {
@@ -1523,22 +1523,6 @@
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/anime/js/YSJ.js"
     },
     {
-      "key": "88看球",
-      "name": "88⚽看球",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "gridview": 3,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "聚合直播",
-      "name": "聚合🎥直播",
-      "type": 3,
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/webcast/py/WLZB.py"
-    },
-    {
       "key": "哔哩直播",
       "name": "哔哩🅱️直播",
       "type": 3,
@@ -1720,6 +1704,22 @@
         "type": "rect",
         "ratio": 1.333
       }
+    },
+    {
+      "key": "88看球",
+      "name": "88⚽看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "聚合直播",
+      "name": "聚合🎥直播",
+      "type": 3,
+      "api": "https://gitee.com/PizazzXS/another-d/raw/master/webcast/py/WLZB.py"
     },
     {
       "key": "急救教学",
