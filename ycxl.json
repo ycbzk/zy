@@ -1020,7 +1020,7 @@
     },
     {
       "key": "夸克云盘",
-      "name": "夸克📀云盘",
+      "name": "夸克💿云盘",
       "type": 3,
       "api": "csp_PanQuark",
       "searchable": 0,
@@ -1034,7 +1034,7 @@
     },
     {
       "key": "UC",
-      "name": "UC📀云盘",
+      "name": "UC💿云盘",
       "type": 3,
       "api": "csp_PanUc",
       "searchable": 0,
@@ -1048,7 +1048,7 @@
     },
     {
       "key": "百度云盘",
-      "name": "百度📀云盘",
+      "name": "百度💿云盘",
       "type": 3,
       "api": "csp_PanBaiDu",
       "searchable": 0,
@@ -1057,17 +1057,6 @@
       "style": {
         "type": "list",
         "ratio": 1.433
-      }
-    },
-    {
-      "key": "移动",
-      "name": "移动📀云盘",
-      "type": 3,
-      "api": "csp_YD",
-      "searchable": 1,
-      "quickSearch": 1,
-      "style": {
-        "type": "list"
       }
     },
     {
