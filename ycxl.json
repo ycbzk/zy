@@ -68,6 +68,41 @@
       }
     },
     {
+      "key": "魔尊",
+      "name": "重楼4K🔥弹幕",
+      "type": 3,
+      "api": "csp_HBcms10",
+      "ext": "http://154.219.113.13:12121/json/cms.txt"
+    },
+    {
+      "key": "竹生",
+      "name": "竹生4K🔥弹幕",
+      "type": 3,
+      "api": "csp_HBT4",
+      "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qVTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXNZV0pwSXlNamJHRmlhUT09"
+    },
+    {
+      "key": "归安",
+      "name": "归安4K🔥弹幕",
+      "type": 3,
+      "api": "csp_HBT4",
+      "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXRhV2hrY2lNakkyMXBhR1J5"
+    },
+    {
+      "key": "薄心",
+      "name": "薄心4K🔥弹幕",
+      "type": 3,
+      "api": "csp_HBT4",
+      "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMWxjbmhwWVc4akl5TmxjbmhwWVc4PQ=="
+    },
+    {
+      "key": "甜橙",
+      "name": "甜橙4K🔥弹幕",
+      "type": 3,
+      "api": "csp_HBT4",
+      "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXZkV2RsSXlNamIzVm5aUT09"
+    },
+    {
       "key": "九零",
       "name": "九零🔥弹幕",
       "type": 3,
