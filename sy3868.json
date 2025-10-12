@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "公众号✨宇辰宝藏库",
+      "name": "试用接口✨24小时内随时失效",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
