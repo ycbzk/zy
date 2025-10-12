@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "试用线路24小时以内失效",
+      "name": "试用线路24小时内失效",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -2373,3 +2373,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
