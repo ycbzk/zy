@@ -2136,6 +2136,21 @@
       "timeout": 10
     },
     {
+      "name": "拾光AI",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.m3u",
+      "playerType": 1
+    },
+    {
+      "name": "APTV",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "timeout": 10
+    }
+    {
       "name": "线路②",
       "type": 0,
       "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
@@ -2373,3 +2388,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
