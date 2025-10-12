@@ -2128,7 +2128,7 @@
   ],
    "lives": [
     {
-      "name": "AI线-不能看切换其他线路",
+      "name": "线路①",
       "type": 0,
       "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
@@ -2143,19 +2143,19 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
     {
-      "name": "ipv6③",
+      "name": "线路③",
       "type": 0,
       "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
       "playerType": 2
     },
     {
-      "name": "冰茶④",
+      "name": "线路④",
       "type": 0,
       "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
       "ua": "bingcha/1.1"
     },
     {
-      "name": "备用",
+      "name": "线路⑤",
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk",
       "playerType": 2,
