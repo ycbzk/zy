@@ -2128,17 +2128,10 @@
   ],
    "lives": [
     {
-      "name": "AI线-不能看切换其他线路",
-      "type": 0,
-      "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "拾光AI",
+      "name": "宇辰AI",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.m3u",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 1
     },
     {
@@ -2149,7 +2142,7 @@
       "logo": "https://epg.iill.top/logo/{name}.png",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "timeout": 10
-    }
+    },
     {
       "name": "线路②",
       "type": 0,
@@ -2388,4 +2381,5 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
