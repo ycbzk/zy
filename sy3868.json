@@ -2128,12 +2128,6 @@
   ],
    "lives": [
     {
-      "name": "宇辰AI",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.m3u",
-      "playerType": 1
-    },
-    {
       "name": "AI直播",
       "type": 0,
       "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
