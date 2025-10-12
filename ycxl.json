@@ -99,6 +99,63 @@
       }
     },
     {
+      "key": "AppQi1",
+      "name": "奇力4K🔥弹幕",
+      "type": 3,
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
+      "api": "csp_AppQi",
+      "changeable": "0",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc="
+    },
+    {
+      "key": "小猪",
+      "name": "小猪4K🔥弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "",
+        "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
+        "dataKey": "seb5tq9mykp2w9ry",
+        "dataIv": "seb5tq9mykp2w9ry",
+        "deviceId": "",
+        "version": "",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "灵虎",
+      "name": "灵虎4K🔥弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "",
+        "site": "https://bind.315999.xyz/89.txt",
+        "dataKey": "#getapp@TMD@2025",
+        "dataIv": "#getapp@TMD@2025",
+        "deviceId": "",
+        "version": "120"
+      }
+    },
+    {
+      "key": "仓鼠",
+      "name": "仓鼠4K🔥弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "",
+        "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
+        "dataKey": "da61247f5b662597",
+        "dataIv": "da61247f5b662597",
+        "deviceId": "",
+        "version": "120"
+      }
+    },
+    {
       "key": "九零",
       "name": "九零🔥弹幕",
       "type": 3,
@@ -113,17 +170,6 @@
         "version": "",
         "ua": ""
       }
-    },
-    {
-      "key": "AppQi1",
-      "name": "爱影🔥弹幕",
-      "type": 3,
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
-      "api": "csp_AppQi",
-      "changeable": "0",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc="
     },
     {
       "key": "热播影视",
@@ -196,21 +242,6 @@
         "site": "",
         "dataKey": "ZX10ysTYZWtIJCTU",
         "dataIv": "ZX10ysTYZWtIJCTU",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
-      "key": "仓鼠",
-      "name": "仓鼠🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
-        "dataKey": "da61247f5b662597",
-        "dataIv": "da61247f5b662597",
         "deviceId": "",
         "version": "120"
       }
@@ -322,21 +353,6 @@
       }
     },
     {
-      "key": "灵虎",
-      "name": "灵虎🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://bind.315999.xyz/89.txt",
-        "dataKey": "#getapp@TMD@2025",
-        "dataIv": "#getapp@TMD@2025",
-        "deviceId": "",
-        "version": "120"
-      }
-   },
-   {
       "key": "五八",
       "name": "五八🔥弹幕",
       "type": 3,
@@ -608,22 +624,6 @@
       "name": "三六零💥影视",
       "type": 3,
       "api": "csp_SP360"
-    },
-    {
-      "key": "小猪",
-      "name": "小猪💥影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
-        "dataKey": "seb5tq9mykp2w9ry",
-        "dataIv": "seb5tq9mykp2w9ry",
-        "deviceId": "",
-        "version": "",
-        "ua": "okhttp/3.10.0"
-      }
     },
     {
       "key": "蓝鹰",
