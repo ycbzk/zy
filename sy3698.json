@@ -38,7 +38,7 @@
     },
     {
       "key": "云朵",
-      "name": "云朵4K🔥弹幕",
+      "name": "云朵👑4K",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -53,7 +53,7 @@
     },
     {
       "key": "影视",
-      "name": "映射4K🔥弹幕",
+      "name": "映射👑4K",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -69,7 +69,7 @@
     },
     {
       "key": "豆丁",
-      "name": "豆丁4K🔥弹幕",
+      "name": "豆丁👑4K",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -85,7 +85,7 @@
     },
     {
       "key": "鲸鱼",
-      "name": "鲸鱼4K🔥弹幕",
+      "name": "鲸鱼👑4K",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -100,7 +100,7 @@
     },
     {
       "key": "AppQi1",
-      "name": "奇力4K🔥弹幕",
+      "name": "奇力👑4K",
       "type": 3,
       "jar": "https://gitee.com/tianwikeji/jar/raw/master/xm.jar",
       "api": "csp_AppQi",
@@ -111,7 +111,7 @@
     },
     {
       "key": "小猪",
-      "name": "小猪4K🔥弹幕",
+      "name": "小猪👑4K",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -127,7 +127,7 @@
     },
     {
       "key": "灵虎",
-      "name": "灵虎4K🔥弹幕",
+      "name": "灵虎👑4K",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -142,7 +142,7 @@
     },
     {
       "key": "仓鼠",
-      "name": "仓鼠4K🔥弹幕",
+      "name": "仓鼠👑4K",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -157,7 +157,7 @@
     },
     {
       "key": "聚搜",
-      "name": "蚂蚁4k🔥弹幕",
+      "name": "蚂蚁👑4K",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
@@ -166,7 +166,7 @@
     },
     {
       "key": "巧技",
-      "name": "巧技4k🔥弹幕",
+      "name": "巧技👑4K",
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
