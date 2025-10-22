@@ -176,6 +176,21 @@
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
     {
+      "key": "数字",
+      "name": "数字🔥弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://app1-0-0.87333.cc",
+        "site": "",
+        "dataKey": "VwsHxkCViDXEExWa",
+        "dataIv": "VwsHxkCViDXEExWa",
+        "deviceId": "",
+        "version": ""
+      }
+    },
+    {
       "key": "火锅",
       "name": "火锅🔥弹幕",
       "type": 3,
@@ -1069,6 +1084,20 @@
       }
     },
     {
+      "key": "阿里云盘",
+      "name": "阿里💿云盘",
+      "type": 3,
+      "api": "csp_PanAli",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/aliShare.json"
+    },
+    {
       "key": "夸克云盘",
       "name": "夸克💿云盘",
       "type": 3,
@@ -1117,6 +1146,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "阿里盘搜",
+      "name": "阿里🔍搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "cloudDrives": "aliyun"
+      }
     },
     {
       "key": "夸克盘搜",
