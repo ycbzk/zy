@@ -176,6 +176,33 @@
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
     {
+      "key": "秒看",
+      "name": "秒看🔥弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://mk1080.top/get.txt",
+        "dataKey": "c60d88b2eep53za8",
+        "dataIv": "c60d88b2eep53za8",
+        "token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "开心",
+      "name": "开心🔥弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw.txt",
+        "dataKey": "ca94b06ca3c7d80e",
+        "dataIv": "ca94b06ca3c7d80e",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "数字",
       "name": "数字🔥弹幕",
       "type": 3,
@@ -1032,8 +1059,8 @@
       "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/hm.json"
     },
     {
-      "key": "夸父",
-      "name": "夸父📀4K",
+      "key": "夸克",
+      "name": "夸克📀4K",
       "type": 3,
       "api": "csp_PanWebShareCloudKF",
       "searchable": 1,
