@@ -37,29 +37,6 @@
       }
     },
     {
-      "key": "思念",
-      "name": "思念👑4K",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "https://snys2.xyz",
-        "timeout": 15,
-        "ver": 2
-      }
-    },
-    {
-      "key": "羊羊",
-      "name": "羊羊👑4K",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "https://ht.zhenxun.love",
-        "name": "羊羊学院"
-      }
-    },
-    {
       "key": "云朵",
       "name": "云朵👑4K",
       "type": 3,
@@ -197,6 +174,29 @@
       "playerType": 2,
       "jar": "https://gitee.com/tianwikeji/jar/raw/master/qj.jar",
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+    },
+    {
+      "key": "思念",
+      "name": "思念🔥弹幕",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "https://snys2.xyz",
+        "timeout": 15,
+        "ver": 2
+      }
+    },
+    {
+      "key": "羊羊",
+      "name": "羊羊🔥弹幕",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppMuou",
+      "ext": {
+        "url": "https://ht.zhenxun.love",
+        "name": "羊羊学院"
+      }
     },
     {
       "key": "茉莉",
