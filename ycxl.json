@@ -580,6 +580,14 @@
       }
     },
     {
+      "key": "韩国",
+      "name": "韩国💥影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1275b576ff8340d0f20930745d5ac59c.jpg;md5;b8ccf68972d12e3983a93b35b4024345",
+      "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/韩剧看看.json"
+    },
+    {
       "key": "大豆",
       "name": "大豆💥影视",
       "type": 3,
