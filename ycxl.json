@@ -199,15 +199,14 @@
       }
     },
     {
-      "key": "茉莉",
-      "name": "茉莉🔥弹幕",
+      "key": "火猫",
+      "name": "火猫🔥弹幕",
       "type": 3,
-      "searchable": 1,
       "api": "csp_AppGet",
       "ext": {
-        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
-        "dataKey": "88689667dce61725",
-        "dataIv": "88689667dce61725"
+        "url": "http://103.23.148.70:14500",
+        "dataKey": "J6AIORKJ3PQOJKM8",
+        "dataIv": "J6AIORKJ3PQOJKM8"
       }
     },
     {
