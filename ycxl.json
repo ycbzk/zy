@@ -2017,7 +2017,7 @@
       "name": "养生🍵知识",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/other/json/YST.json",
+      "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/YST.json",
       "style": {
         "type": "rect",
         "ratio": 1.597
