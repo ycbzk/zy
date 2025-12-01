@@ -1969,13 +1969,15 @@
       }
     },
     {
-      "key": "戏曲多多",
-      "name": "戏曲🎭️多多",
+      "key": "聚合直播",
+      "name": "聚合📽️直播",
       "type": 3,
-      "api": "csp_AppLY",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "csp_LivingGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 10
     },
     {
       "key": "88看球",
@@ -1988,15 +1990,13 @@
       }
     },
     {
-      "key": "聚合直播",
-      "name": "聚合📽️直播",
+      "key": "戏曲多多",
+      "name": "戏曲🎭️多多",
       "type": 3,
-      "api": "csp_LivingGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10
+      "api": "csp_AppLY",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "急救教学",
