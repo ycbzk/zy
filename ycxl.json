@@ -1989,9 +1989,14 @@
     },
     {
       "key": "聚合直播",
-      "name": "聚合🎥直播",
+      "name": "聚合📽️直播",
       "type": 3,
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/webcast/py/WLZB.py"
+      "api": "csp_LivingGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 10
     },
     {
       "key": "急救教学",
