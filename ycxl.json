@@ -38,7 +38,7 @@
     },
     {
       "key": "云朵",
-      "name": "云朵👑4K",
+      "name": "云朵🔥弹幕",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -52,24 +52,8 @@
       }
     },
     {
-      "key": "影视",
-      "name": "映射👑4K",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
-        "dataKey": "sada21321sdq231d",
-        "dataIv": "sada21321sdq231d",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
       "key": "鲸鱼",
-      "name": "鲸鱼👑4K",
+      "name": "鲸鱼🔥弹幕",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -84,7 +68,7 @@
     },
     {
       "key": "小猪",
-      "name": "小猪👑4K",
+      "name": "小猪🔥弹幕",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -100,7 +84,7 @@
     },
     {
       "key": "灵虎",
-      "name": "灵虎👑4K",
+      "name": "灵虎🔥弹幕",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -115,7 +99,7 @@
     },
     {
       "key": "仓鼠",
-      "name": "仓鼠👑4K",
+      "name": "仓鼠🔥弹幕",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -193,15 +177,6 @@
         "dataKey": "sda1231sasddad21",
         "dataIv": "sda1231sasddad21",
         "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "吉米",
-      "name": "吉米🔥弹幕",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "http://fox.tvmao.top"
       }
     },
     {
