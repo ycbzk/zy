@@ -1005,6 +1005,15 @@
       }
     },
     {
+      "key": "即刻",
+      "name": "即刻📀4K",
+      "type": 3,
+      "api": "csp_Jike",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "阿里云盘",
       "name": "阿里💿云盘",
       "type": 3,
@@ -1351,6 +1360,12 @@
         "deviceId": "",
         "version": ""
       }
+    },
+    {
+      "key": "哔哩直播",
+      "name": "哔哩🅱️直播",
+      "type": 3,
+      "api": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/webcast/py/BLZB.py"
     },
     {
       "key": "哔哩合集",
