@@ -640,6 +640,12 @@
       }
     },
     {
+      "key": "三六零",
+      "name": "三六零💥影视",
+      "type": 3,
+      "api": "csp_SP360"
+    },
+    {
       "key": "1905",
       "name": "1905💥影视",
       "type": 3,
@@ -649,10 +655,14 @@
       "filterable": 0
     },
     {
-      "key": "三六零",
-      "name": "三六零💥影视",
+      "key": "80S",
+      "name": "80S🧲磁力",
       "type": 3,
-      "api": "csp_SP360"
+      "api": "csp_BLSGod",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "荐片",
@@ -681,20 +691,19 @@
       }
     },
     {
-      "key": "80S",
-      "name": "80S🧲磁力",
+      "key": "迅雷吧",
+      "name": "迅雷吧🧲磁力",
       "type": 3,
-      "api": "csp_BLSGod",
-      "playerType": 1,
+      "api": "csp_Xunlei8",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "Mp4电影",
-      "name": "Mp4电影🧲磁力",
+      "key": "美剧迷",
+      "name": "美剧迷🧲磁力",
       "type": 3,
-      "api": "csp_Mp4Mov",
+      "api": "csp_MeijuMi",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -710,19 +719,10 @@
       "ext": "https://www.xb6v.com"
     },
     {
-      "key": "美剧迷",
-      "name": "美剧迷🧲磁力",
+      "key": "Mp4电影",
+      "name": "Mp4电影🧲磁力",
       "type": 3,
-      "api": "csp_MeijuMi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "迅雷吧",
-      "name": "迅雷吧🧲磁力",
-      "type": 3,
-      "api": "csp_Xunlei8",
+      "api": "csp_Mp4Mov",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
