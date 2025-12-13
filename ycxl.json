@@ -52,6 +52,28 @@
       }
     },
     {
+      "key": "椰子",
+      "name": "椰子🔥弹幕",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://103.109.20.117:6699",
+        "dataKey": "xxm9N4P9rS2zjdyz",
+        "dataIv": "xxm9N4P9rS2zjdyz"
+      }
+    },
+    {
+      "key": "木瓜",
+      "name": "木瓜🔥弹幕",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "http://www.yezitv.top"
+      }
+    },
+    {
       "key": "鲸鱼",
       "name": "鲸鱼🔥弹幕",
       "type": 3,
