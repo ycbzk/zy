@@ -461,15 +461,6 @@
       }
     },
     {
-      "key": "吉米",
-      "name": "吉米💥影视",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "http://fox.tvmao.top"
-      }
-    },
-    {
       "key": "顾我",
       "name": "顾我💥影视",
       "type": 3,
@@ -626,22 +617,6 @@
         "site": "",
         "dataKey": "hzxjRSmyTmSE4ENE",
         "dataIv": "hzxjRSmyTmSE4ENE",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "外剧",
-      "name": "外剧💥影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://guowaiju.com",
-        "site": "",
-        "dataKey": "7xv16h7qgkrs9b1p",
-        "dataIv": "7xv16h7qgkrs9b1p",
         "deviceId": "",
         "version": "",
         "ua": ""
