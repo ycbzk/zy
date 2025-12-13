@@ -65,15 +65,6 @@
       }
     },
     {
-      "key": "木瓜",
-      "name": "木瓜🔥弹幕",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "http://www.yezitv.top"
-      }
-    },
-    {
       "key": "鲸鱼",
       "name": "鲸鱼🔥弹幕",
       "type": 3,
@@ -467,6 +458,15 @@
         "deviceId": "",
         "version": "",
         "ua": ""
+      }
+    },
+    {
+      "key": "吉米",
+      "name": "吉米💥影视",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "http://fox.tvmao.top"
       }
     },
     {
