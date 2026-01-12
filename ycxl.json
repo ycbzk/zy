@@ -52,16 +52,82 @@
       }
     },
     {
-      "key": "椰子",
-      "name": "椰子🔥弹幕",
+      "key": "橘子",
+      "name": "橘子🔥弹幕",
+      "type": 3,
+      "api": "csp_AppQi",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "url": "https://juziapp.tpmbt.cn",
+        "dataKey": "K3h6YvSU8BTUfEcb",
+        "dataIv": "K3h6YvSU8BTUfEcb",
+        "version": "305",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "仓鼠",
+      "name": "仓鼠🔥弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "https://hk440cms.cs4k.top",
+        "dataKey": "fL7sY4zN4kB3pG4p",
+        "dataIv": "fL7sY4zN4kB3pG4p",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "旗星",
+      "name": "旗星🔥弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://ys.qist.top",
+        "dataKey": "2SWSPFxugBLPPOKo",
+        "dataIv": "2SWSPFxugBLPPOKo",
+        "version": "120"
+      }
+    },
+    {
+      "key": "随看",
+      "name": "随看🔥弹幕",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://suikan.tpmbt.cn",
+        "dataKey": "pHQsm6wjYaCuSPEz",
+        "dataIv": "pHQsm6wjYaCuSPEz"
+      }
+    },
+    {
+      "key": "星星",
+      "name": "星星🔥弹幕",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "http://110.81.153.7:1963/get.txt",
+        "dataKey": "k7L9mQ2xR4pW8n88",
+        "dataIv": "k7L9mQ2xR4pW8n88",
+        "version": "305"
+      }
+    },
+    {
+      "key": "魔方",
+      "name": "魔方🔥弹幕",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "http://103.109.20.117:6699",
-        "dataKey": "xxm9N4P9rS2zjdyz",
-        "dataIv": "xxm9N4P9rS2zjdyz"
+        "site": "https://snysw.xyz/mf4kzs327.txt",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321"
       }
     },
     {
@@ -111,21 +177,6 @@
       }
     },
     {
-      "key": "仓鼠",
-      "name": "仓鼠🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
-        "dataKey": "da61247f5b662597",
-        "dataIv": "da61247f5b662597",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
       "key": "缘梦",
       "name": "缘梦🔥弹幕",
       "type": 3,
@@ -136,32 +187,6 @@
         "url": "https://www.zipfve.cn",
         "dataKey": "1234567890987654",
         "dataIv": "1234567890987654"
-      }
-    },
-    {
-      "key": "麻花",
-      "name": "麻花🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://49.235.114.19:150",
-        "dataKey": "q7gj4f9br3fls6nh",
-        "dataIv": "q7gj4f9br3fls6nh"
-      }
-    },
-    {
-      "key": "剧猫",
-      "name": "剧猫🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "site": "https://zjm-1302383509.cos.ap-guangzhou.myqcloud.com/zjm.txt",
-        "dataKey": "zjmznbl2026zcxgb",
-        "dataIv": "zjmznbl2026zcxgb"
       }
     },
     {
@@ -193,28 +218,6 @@
       }
     },
     {
-      "key": "恋鱼",
-      "name": "恋鱼🔥弹幕",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json",
-        "ver": 2
-      }
-    },
-    {
-      "key": "羊羊",
-      "name": "羊羊🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "https://ht.zhenxun.love",
-        "name": "羊羊学院"
-      }
-    },
-    {
       "key": "闪影",
       "name": "闪影🔥弹幕",
       "type": 3,
@@ -223,17 +226,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
-    },
-    {
-      "key": "火猫",
-      "name": "火猫🔥弹幕",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://103.23.148.70:14500",
-        "dataKey": "J6AIORKJ3PQOJKM8",
-        "dataIv": "J6AIORKJ3PQOJKM8"
-      }
     },
     {
       "key": "新剧",
@@ -334,22 +326,6 @@
       }
     },
     {
-      "key": "热剧",
-      "name": "热剧🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "https://www.rebovod.com",
-        "site": "",
-        "dataKey": "8191A7F47B37882F",
-        "dataIv": "8191A7F47B37882F",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
       "key": "狂欢",
       "name": "狂欢🔥弹幕",
       "type": 3,
@@ -379,21 +355,6 @@
         "deviceId": "",
         "version": "140",
         "ua": ""
-      }
-    },
-    {
-      "key": "莱米",
-      "name": "莱米🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
-        "dataKey": "ce032244d093b3e2",
-        "dataIv": "ce032244d093b3e2",
-        "deviceId": "",
-        "version": ""
       }
     },
     {
@@ -439,22 +400,6 @@
         "site": "https://app-cms-v10-1314306855.cos.ap-guangzhou.myqcloud.com/appcms.php",
         "dataKey": "A1akVPQmnnE4Fz9Z",
         "dataIv": "A1akVPQmnnE4Fz9Z",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "迪吧",
-      "name": "迪吧🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://appto2-1316376600.cos.ap-beijing.myqcloud.com/gap.txt",
-        "dataKey": "685bf108bc47b67d",
-        "dataIv": "685bf108bc47b67d",
         "deviceId": "",
         "version": "",
         "ua": ""
