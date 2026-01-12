@@ -406,6 +406,13 @@
       }
     },
     {
+      "key": "永乐影视",
+      "name": "永乐💥影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json"
+    },
+    {
       "key": "顾我",
       "name": "顾我💥影视",
       "type": 3,
@@ -517,54 +524,6 @@
         "dataIv": "ca94b06ca359d80e",
         "deviceId": "",
         "version": "120"
-      }
-    },
-    {
-      "key": "星星",
-      "name": "星星💥影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://starani.qcanime.xyz",
-        "site": "",
-        "dataKey": "123456789StarAni",
-        "dataIv": "123456789StarAni",
-        "deviceId": "",
-        "version": "",
-        "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
-      }
-    },
-    {
-      "key": "稀饭",
-      "name": "稀饭💥影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://app.xifanys.com",
-        "site": "",
-        "dataKey": "HM6Ly9yeS4ya3dvL",
-        "dataIv": "HM6Ly9yeS4ya3dvL",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "爱看",
-      "name": "爱看💥影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://aikan.my",
-        "site": "",
-        "dataKey": "hzxjRSmyTmSE4ENE",
-        "dataIv": "hzxjRSmyTmSE4ENE",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
       }
     },
     {
@@ -1097,20 +1056,50 @@
       "api": "csp_GuiGui"
     },
     {
-      "key": "星芽短剧",
-      "name": "星芽🎀短剧",
+      "key": "甜圈短剧",
+      "name": "甜圈🎀短剧",
       "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
+      "api": "csp_TianquanDJ",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "甜圈短剧",
-      "name": "甜圈🎀短剧",
+      "key": "锦鲤短剧",
+      "name": "锦鲤🎀短剧",
       "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/TQDJ.py",
+      "api": "csp_JinliDJ",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "七猫短剧",
+      "name": "七猫🎀短剧",
+      "type": 3,
+      "api": "csp_QiMaoDJ",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "星阁短剧",
+      "name": "星阁🎀短剧",
+      "type": 3,
+      "api": "csp_XinggeDJ",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "星芽短剧",
+      "name": "星芽🎀短剧",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -1120,18 +1109,11 @@
       "key": "剧王短剧",
       "name": "剧王🎀短剧",
       "type": 3,
-      "api": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py",
+      "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "番茄短剧",
-      "name": "番茄🎀短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://wget.la/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/FQDJ.json"
     },
     {
       "key": "漫国",
