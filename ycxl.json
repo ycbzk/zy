@@ -37,34 +37,25 @@
       }
     },
     {
-      "key": "云朵",
-      "name": "云朵🔥弹幕",
+      "key": "粉象",
+      "name": "粉象🔥弹幕",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
+      "changeable": 0,
+      "api": "csp_AppFox",
       "ext": {
-        "url": "",
-        "site": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt",
-        "dataKey": "staraugust123456",
-        "dataIv": "staraugust123456",
-        "deviceId": "",
-        "version": "120"
+        "host": "http://121.40.131.51:2556/host.json",
+        "ver": 2
       }
     },
     {
-      "key": "橘子",
-      "name": "橘子🔥弹幕",
+      "key": "麒麟",
+      "name": "麒麟🔥弹幕",
       "type": 3,
-      "api": "csp_AppQi",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
+      "changeable": 0,
+      "api": "csp_AppFox",
       "ext": {
-        "url": "https://juziapp.tpmbt.cn",
-        "dataKey": "K3h6YvSU8BTUfEcb",
-        "dataIv": "K3h6YvSU8BTUfEcb",
-        "version": "305",
-        "ua": "okhttp/3.10.0"
+        "host": "https://qh.70qh.top",
+        "ver": 2
       }
     },
     {
