@@ -37,6 +37,29 @@
       }
     },
     {
+      "key": "巧技2",
+      "name": "巧技🔥弹幕",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/巧技2.jar",
+      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
+    },
+    {
+      "key": "茉莉",
+      "name": "茉莉🔥弹幕",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      }
+    },
+    {
       "key": "木瓜",
       "name": "木瓜🔥弹幕",
       "type": 3,
