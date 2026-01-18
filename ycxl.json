@@ -37,7 +37,7 @@
       }
     },
     {
-      "key": "巧技2",
+      "key": "巧技",
       "name": "巧技🔥弹幕",
       "type": 3,
       "searchable": 1,
@@ -46,18 +46,6 @@
       "playerType": 2,
       "jar": "https://gitee.com/tianwikeji/jar/raw/master/巧技2.jar",
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
-    },
-    {
-      "key": "茉莉",
-      "name": "茉莉🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
-        "dataKey": "88689667dce61725",
-        "dataIv": "88689667dce61725"
-      }
     },
     {
       "key": "木瓜",
@@ -287,19 +275,6 @@
         "dataKey": "c60d88b2eep53za8",
         "dataIv": "c60d88b2eep53za8",
         "token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "开心",
-      "name": "开心🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw.txt",
-        "dataKey": "ca94b06ca3c7d80e",
-        "dataIv": "ca94b06ca3c7d80e",
         "ua": "okhttp/3.10.0"
       }
     },
