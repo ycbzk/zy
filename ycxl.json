@@ -37,6 +37,38 @@
       }
     },
     {
+      "key": "木瓜",
+      "name": "木瓜🔥弹幕",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "http://www.yezitv.top/dtym.json",
+        "ver": 2
+      }
+    },
+    {
+      "key": "云云",
+      "name": "云云🔥弹幕",
+      "type": 3,
+      "api": "csp_Qiji",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"
+    },
+    {
+      "key": "奇奇",
+      "name": "奇奇🔥弹幕",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": {
+        "site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/a.txt",
+        "dataKey": "123456789abcdefg",
+        "dataIv": "123456789abcdefg"
+      }
+    },
+    {
       "key": "粉象",
       "name": "粉象🔥弹幕",
       "type": 3,
