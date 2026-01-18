@@ -37,30 +37,6 @@
       }
     },
     {
-      "key": "方圆",
-      "name": "方圆🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://fyys1.fytd.top",
-        "dataKey": "0ef6fc92a64b4ee7",
-        "dataIv": "0ef6fc92a64b4ee7"
-      }
-    },
-    {
-      "key": "看呗",
-      "name": "看呗🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://www.winter1.fun",
-        "dataKey": "abcdefghigklmn11",
-        "dataIv": "abcdefghigklmn11"
-      }
-    },
-    {
       "key": "粉象",
       "name": "粉象🔥弹幕",
       "type": 3,
