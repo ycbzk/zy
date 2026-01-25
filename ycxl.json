@@ -658,39 +658,6 @@
       "filterable": 1
     },
     {
-      "key": "123",
-      "name": "123📀4K",
-      "type": 3,
-      "api": "csp_PanWebShareCloud123",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "https://raw.kkgithub.com/PizazzGY/NewTVBox/main/cloud/json/123.json"
-    },
-    {
-      "key": "二小",
-      "name": "二小📀4K",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://xhww.net",
-          "https://erxiaofn.site",
-          "https://erxiaofn.click",
-          "https://www.xhww.net"
-        ]
-      }
-    },
-    {
       "key": "玩偶",
       "name": "玩偶📀4K",
       "type": 3,
@@ -701,8 +668,6 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.wogg.lol",
-          "https://wogg.xxooo.cf",
           "https://www.wogg.one",
           "https://wogg.333232.xyz",
           "https://woggpan.888484.xyz"
@@ -720,7 +685,8 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://xsayang.fun:12512"
+          "http://xsayang.fun:12512",
+          "http://154.201.83.50:12512"
         ]
       }
     },
@@ -807,7 +773,28 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://woog.nxog.eu.org"
+          "https://woog.nxog.eu.org",
+          "https://woog.nxog.fun",
+          "https://woog.nxog.eu.org",
+          "https://woog.430520.xyz"
+        ]
+      }
+    },
+    {
+      "key": "二小",
+      "name": "二小📀4K",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://xhww.net",
+          "https://erxiaofn.site",
+          "https://erxiaofn.click",
+          "https://www.xhww.net"
         ]
       }
     },
@@ -822,7 +809,53 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "http://103.45.162.207:20720"
+          "http://xhban.xyz:20720",
+          "http://154.222.27.33:20720"
+        ]
+      }
+    },
+    {
+      "key": "闪电",
+      "name": "闪电📀4K",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://sd.sduc.site"
+        ]
+      }
+    },
+    {
+      "key": "夸克",
+      "name": "夸克📀4K",
+      "type": 3,
+      "api": "csp_PanWebShareCloudKK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://www.quarktv.cc"
+        ]
+      }
+    },
+    {
+      "key": "清影",
+      "name": "清影📀4K",
+      "type": 3,
+      "api": "csp_PanWebShareCloudQY",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://www.revohd.com"
         ]
       }
     },
@@ -839,7 +872,14 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://raw.kkgithub.com/PizazzGY/NewTVBox/main/cloud/json/lj.json"
+      "ext": {
+        "site": [
+          "https://www.leijing.xyz",
+          "https://www.leijing1.com",
+          "https://leijing.xyz",
+          "https://leijing1.com"
+        ]
+      }
     },
     {
       "key": "海绵",
@@ -854,7 +894,13 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://raw.kkgithub.com/PizazzGY/NewTVBox/main/cloud/json/hm.json"
+      "ext": {
+        "site": [
+          "http://haimian.eu.org",
+          "https://www.hmxz.org",
+          "https://www.haimianxz.com"
+        ]
+      }
     },
     {
       "key": "夸父",
@@ -869,27 +915,51 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://raw.kkgithub.com/PizazzGY/NewTVBox/main/cloud/json/kf.json"
+      "ext": {
+        "site": [
+          "https://www.kfjwzz.com"
+        ],
+        "cookie": "bbs_sid=bi7dpnm6vp31s38rjqlqq8vq84; bbs_token=TWiR3YUrGoVpbdTkjAJ0xMe_2B_2FiaFvd84V3_2FEZJRRSKU_3D"
+      }
     },
     {
-      "key": "双星",
-      "name": "双星📀4K",
+      "key": "盘它",
+      "name": "盘它📀4K",
       "type": 3,
-      "api": "https://raw.kkgithub.com/PizazzGY/NewTVBox/main/js/drpy2.min.js",
-      "ext": "https://raw.kkgithub.com/PizazzGY/NewTVBox/main/cloud/js/SX.js",
+      "api": "csp_PanWebShareCloudPT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
       "style": {
         "type": "list"
+      }
+    },
+    {
+      "key": "123",
+      "name": "123📀4K",
+      "type": 3,
+      "api": "csp_PanWebShareCloud123",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": {
+        "site": [
+          "https://123panfx.com",
+          "https://pan1.me"
+        ]
       }
     },
     {
       "key": "人人",
       "name": "人人📀4K",
       "type": 3,
-      "api": "https://raw.kkgithub.com/PizazzGY/NewTVBox/main/js/drpy2.min.js",
-      "ext": "https://raw.kkgithub.com/PizazzGY/NewTVBox/main/cloud/js/RRDYW.js",
-      "style": {
-        "type": "list"
-      }
+      "api": "csp_RenRen"
     },
     {
       "key": "即刻",
@@ -901,58 +971,12 @@
       }
     },
     {
-      "key": "UC",
-      "name": "UC💿云盘",
+      "key": "双星",
+      "name": "双星📀4K",
       "type": 3,
-      "api": "csp_PanUc",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
+      "api": "csp_ShuangXing",
       "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/ucShare.json"
-    },
-    {
-      "key": "阿里云盘",
-      "name": "阿里💿云盘",
-      "type": 3,
-      "api": "csp_PanAli",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/aliShare.json"
-    },
-    {
-      "key": "夸克云盘",
-      "name": "夸克💿云盘",
-      "type": 3,
-      "api": "csp_PanQuark",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/quarkShare.json"
-    },
-    {
-      "key": "百度云盘",
-      "name": "百度💿云盘",
-      "type": 3,
-      "api": "csp_PanBaiDu",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
+        "type": "list"
       }
     },
     {
