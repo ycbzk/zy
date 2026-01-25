@@ -48,6 +48,29 @@
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
+      "key": "优兔",
+      "name": "优兔🔥弹幕",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": {
+        "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
+        "dataKey": "UrWKPnmQWJA8AQzd",
+        "dataIv": "UrWKPnmQWJA8AQzd"
+      }
+    },
+    {
+      "key": "王子",
+      "name": "王子🔥弹幕",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://app.95112475.xyz",
+        "dataKey": "5a9w6x58dsq6z3a6",
+        "dataIv": "5a9w6x58dsq6z3a6"
+      }
+    },
+    {
       "key": "木瓜",
       "name": "木瓜🔥弹幕",
       "type": 3,
@@ -170,19 +193,14 @@
       }
     },
     {
-      "key": "小猪",
-      "name": "小猪🔥弹幕",
+      "key": "芬奇",
+      "name": "芬奇🔥弹幕",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
+      "api": "csp_AppGet",
       "ext": {
-        "url": "",
-        "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
-        "dataKey": "seb5tq9mykp2w9ry",
-        "dataIv": "seb5tq9mykp2w9ry",
-        "deviceId": "",
-        "version": "",
-        "ua": "okhttp/3.10.0"
+        "site": "https://wsapi.dafenqi.mom/yuming.txt",
+        "dataKey": "bH5mI8iK0tK7aQ5x",
+        "dataIv": "bH5mI8iK0tK7aQ5x"
       }
     },
     {
