@@ -71,6 +71,23 @@
       }
     },
     {
+      "key": "搜搜",
+      "name": "搜搜🔥弹幕",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": "https://www.zjcvod.com"
+    },
+    {
+      "key": "火花",
+      "name": "火花🔥弹幕",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_AppFox",
+      "ext": {
+        "host": "http://huohua.itcxo.cn"
+      }
+    },
+    {
       "key": "木瓜",
       "name": "木瓜🔥弹幕",
       "type": 3,
