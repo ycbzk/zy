@@ -4,39 +4,6 @@
   "logo": "https://zy.ycbzk.dpdns.org/ycbzk.jpg",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "公众号✨宇辰宝藏库",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
-      "key": "预告",
-      "name": "新片✨预告",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0
-    },
-    {
-      "key": "本地",
-      "name": "本地✨视频",
-      "type": 3,
-      "api": "csp_LocalFile"
-    },
-    {
-      "key": "配置中心",
-      "name": "配置✨中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
       "key": "巧技",
       "name": "巧技🔥弹幕",
       "type": 3,
@@ -1556,6 +1523,19 @@
       "filterable": 0,
       "changeable": 0
     }
+    {
+      "key": "配置中心",
+      "name": "配置✨中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
   ],
   "parses": [
     {
