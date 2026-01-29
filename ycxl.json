@@ -48,6 +48,19 @@
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
+      "key": "小白",
+      "name": "小白🔥弹幕",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://uutu.efjhl.cn",
+        "dataKey": "uXVVRRuaPnjEfsX5",
+        "dataIv": "uXVVRRuaPnjEfsX5"
+      }
+    },
+    {
       "key": "优兔",
       "name": "优兔🔥弹幕",
       "type": 3,
@@ -68,6 +81,20 @@
         "url": "https://app.95112475.xyz",
         "dataKey": "5a9w6x58dsq6z3a6",
         "dataIv": "5a9w6x58dsq6z3a6"
+      }
+    },
+    {
+      "key": "汤圆",
+      "name": "汤圆🔥弹幕",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "filterable": 1,
+      "ext": {
+        "url": "http://tangyuanapp.top",
+        "dataKey": "j519MYJAt3kk9XVA",
+        "dataIv": "j519MYJAt3kk9XVA"
       }
     },
     {
@@ -113,10 +140,11 @@
       "key": "粉象",
       "name": "粉象🔥弹幕",
       "type": 3,
-      "changeable": 0,
       "api": "csp_AppFox",
+      "searchable": 1,
+      "changeable": 1,
       "ext": {
-        "host": "http://121.40.131.51:2556/host.json",
+        "host": "http://host1.sopython.top/host.json",
         "ver": 2
       }
     },
@@ -143,19 +171,6 @@
         "dataIv": "fL7sY4zN4kB3pG4p",
         "init": "initV122",
         "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "旗星",
-      "name": "旗星🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://ys.qist.top",
-        "dataKey": "2SWSPFxugBLPPOKo",
-        "dataIv": "2SWSPFxugBLPPOKo",
-        "version": "120"
       }
     },
     {
@@ -192,21 +207,6 @@
         "site": "https://snysw.xyz/mf4kzs327.txt",
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
-      }
-    },
-    {
-      "key": "鲸鱼",
-      "name": "鲸鱼🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppQi",
-      "ext": {
-        "url": "",
-        "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
-        "dataKey": "AAdgrdghjfgswerA",
-        "dataIv": "AAdgrdghjfgswerA",
-        "deviceId": "",
-        "version": ""
       }
     },
     {
