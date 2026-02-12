@@ -56,15 +56,20 @@
       "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
       "ext": "http://118.89.203.120:8365/"
     },
-    {
-      "key": "还行",
-      "name": "无意🔥弹幕",
+     {
+      "key": "云云弹幕版",
+      "name": "云速🔥弹幕",
       "type": 3,
-      "jar": "./kjtw.jar",
-      "api": "csp_AppYs",
+      "api": "csp_AweSomeGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "http://m51.gotto.top/api.php/v1.vod"
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "YunYun",
+        "danmu": true
+      },
+      "timeout": 10
     },
     {
       "key": "优兔",
@@ -1975,3 +1980,4 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
