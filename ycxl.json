@@ -56,32 +56,6 @@
       "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
       "ext": "http://118.89.203.120:8365/"
     },
-     {
-      "key": "云云弹幕版",
-      "name": "云速🔥弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "YunYun",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "优兔",
-      "name": "优兔🔥弹幕",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": {
-        "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
-        "dataKey": "UrWKPnmQWJA8AQzd",
-        "dataIv": "UrWKPnmQWJA8AQzd"
-      }
-    },
     {
       "key": "王子",
       "name": "王子🔥弹幕",
@@ -92,20 +66,6 @@
         "url": "https://app.95112475.xyz",
         "dataKey": "5a9w6x58dsq6z3a6",
         "dataIv": "5a9w6x58dsq6z3a6"
-      }
-    },
-    {
-      "key": "汤圆",
-      "name": "汤圆🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "filterable": 1,
-      "ext": {
-        "url": "http://tangyuanapp.top",
-        "dataKey": "j519MYJAt3kk9XVA",
-        "dataIv": "j519MYJAt3kk9XVA"
       }
     },
     {
@@ -123,17 +83,6 @@
       "api": "csp_AppFox",
       "ext": {
         "host": "http://huohua.itcxo.cn"
-      }
-    },
-    {
-      "key": "木瓜",
-      "name": "木瓜🔥弹幕",
-      "type": 3,
-      "changeable": 0,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "http://www.yezitv.top/dtym.json",
-        "ver": 2
       }
     },
     {
@@ -1980,4 +1929,3 @@
     "static-mozai.4gtv.tv"
   ]
 }
-
