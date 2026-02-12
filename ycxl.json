@@ -48,19 +48,6 @@
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
-      "key": "小白",
-      "name": "小白🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://uutu.efjhl.cn",
-        "dataKey": "uXVVRRuaPnjEfsX5",
-        "dataIv": "uXVVRRuaPnjEfsX5"
-      }
-    },
-    {
       "key": "优兔",
       "name": "优兔🔥弹幕",
       "type": 3,
@@ -123,17 +110,6 @@
       "ext": {
         "host": "http://www.yezitv.top/dtym.json",
         "ver": 2
-      }
-    },
-    {
-      "key": "奇奇",
-      "name": "奇奇🔥弹幕",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": {
-        "site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/a.txt",
-        "dataKey": "123456789abcdefg",
-        "dataIv": "123456789abcdefg"
       }
     },
     {
