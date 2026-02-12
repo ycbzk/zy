@@ -48,6 +48,19 @@
       "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
+      "key": "茉莉",
+      "name": "茉莉🔥弹幕",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      }
+    },
+    {
       "key": "麻雀",
       "name": "麻雀🔥弹幕",
       "type": 3,
@@ -195,19 +208,6 @@
         "url": "https://www.zipfve.cn",
         "dataKey": "1234567890987654",
         "dataIv": "1234567890987654"
-      }
-    },
-    {
-      "key": "剧梦",
-      "name": "剧梦🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.jumengwu.com",
-        "dataKey": "1f0a873caf2550a5",
-        "dataIv": "1f0a873caf2550a5"
       }
     },
     {
@@ -477,10 +477,7 @@
       "key": "苹果影视",
       "name": "苹果💥影视",
       "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "csp_LiteApple"
     },
     {
       "key": "全网影视",
