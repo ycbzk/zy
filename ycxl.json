@@ -92,10 +92,9 @@
           "x-app-package": "com.mjyx.jhxq",
           "x-app-version-code": "36",
           "x-app-version-name": "2.2.6"
-        }
       }
     },
-     {
+    {
       "key": "橘猫",
       "name": "橘猫🔥弹幕",
       "type": 3,
@@ -108,7 +107,6 @@
           "x-app-package": "com.gnzhis.nru",
           "x-app-version-code": "2",
           "x-app-version-name": "2.4.1"
-        }
       }
     },
     {
@@ -124,7 +122,6 @@
           "x-app-package": "com.ds.wlss",
           "x-app-version-code": "56",
           "x-app-version-name": "1.2.6"
-        }
       }
     },
     {
@@ -140,7 +137,6 @@
           "x-app-package": "cc.xzsc.user",
           "x-app-version-code": "12",
           "x-app-version-name": "5.2"
-        }
       }
     },
     {
@@ -156,7 +152,6 @@
           "x-app-package": "com.muyuesg.app",
           "x-app-version-code": "12",
           "x-app-version-name": "0.1.2"
-        }
       }
     },
     {
@@ -172,7 +167,6 @@
           "x-app-package": "com.mfbrjy.aqb",
           "x-app-version-code": "320",
           "x-app-version-name": "3.2.0"
-        }
       }
     },
     {
@@ -188,7 +182,6 @@
           "x-app-package": "com.asxkkc.jbz",
           "x-app-version-code": "5",
           "x-app-version-name": "1.3.9"
-        }
       }
     },
     {
@@ -204,7 +197,6 @@
           "x-app-package": "com.recall.app",
           "x-app-version-code": "22",
           "x-app-version-name": "2.2.0"
-        }
       }
     },
     {
