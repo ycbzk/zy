@@ -51,19 +51,14 @@
       }
     },
     {
-      "key": "顾我",
-      "name": "顾我🔥弹幕",
+      "key": "小羊",
+      "name": "小羊🔥弹幕",
       "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
+      "api": "csp_AppGet",
       "ext": {
-        "url": "http://117.50.204.35:520",
-        "dataKey": "ca94b06ca3c7d80e",
-        "dataIv": "ca94b06ca3c7d80e",
-        "search": "gftvvvvklod",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
+        "site": "https://xy4k.com/url.txt",
+        "dataKey": "7SDWjknU34zqFbVr",
+        "dataIv": "7SDWjknU34zqFbVr"
       }
     },
     {
