@@ -37,6 +37,62 @@
       }
     },
     {
+      "key": "老鹰",
+      "name": "老鹰🔥弹幕",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+        "dataKey": "zxPtEUDGVllIUhDB",
+        "dataIv": "zxPtEUDGVllIUhDB",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "顾我",
+      "name": "顾我🔥弹幕",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://117.50.204.35:520",
+        "dataKey": "ca94b06ca3c7d80e",
+        "dataIv": "ca94b06ca3c7d80e",
+        "search": "gftvvvvklod",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "段友",
+      "name": "段友🔥弹幕",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://shangjihuoke.com",
+        "dataKey": "8E2DC386FD452D05",
+        "dataIv": "8E2DC386FD452D05"
+      }
+    },
+    {
+      "key": "黑猫",
+      "name": "黑猫🔥弹幕",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://app1-0-0.87333.cc",
+        "dataKey": "VwsHxkCViDXEExWa",
+        "dataIv": "VwsHxkCViDXEExWa"
+      }
+    },
+    {
       "key": "橘子",
       "name": "橘子🔥弹幕",
       "type": 3,
@@ -418,21 +474,6 @@
       "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json"
     },
     {
-      "key": "顾我",
-      "name": "顾我💥影视",
-      "type": 3,
-      "api": "csp_AppQi",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt",
-        "dataKey": "ca94b06ca3c7d80e",
-        "dataIv": "ca94b06ca3c7d80e",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "韩国",
       "name": "韩国💥影视",
       "type": 3,
@@ -488,13 +529,6 @@
       "name": "苹果💥影视",
       "type": 3,
       "api": "csp_LiteApple"
-    },
-    {
-      "key": "全网影视",
-      "name": "全看💥影视",
-      "type": 3,
-      "api": "csp_Quanwk",
-      "ext": "https://www.91qkw.com"
     },
     {
       "key": "瓜子影视",
@@ -1089,7 +1123,8 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "类型": "短剧"
     },
     {
       "key": "锦鲤短剧",
@@ -1099,17 +1134,8 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "七猫短剧",
-      "name": "七猫🎀短剧",
-      "type": 3,
-      "api": "csp_QiMaoDJ",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "类型": "短剧"
     },
     {
       "key": "星阁短剧",
@@ -1119,7 +1145,19 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "类型": "短剧"
+    },
+    {
+      "key": "碎片",
+      "name": "碎片🎀短剧",
+      "type": 3,
+      "api": "csp_SuipianDJ",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "类型": "短剧"
     },
     {
       "key": "星芽短剧",
@@ -1129,7 +1167,8 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "类型": "短剧"
     },
     {
       "key": "剧王短剧",
@@ -1139,7 +1178,8 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "类型": "短剧"
     },
     {
       "key": "漫国",
