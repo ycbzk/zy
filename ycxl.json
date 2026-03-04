@@ -747,21 +747,11 @@
       }
     },
     {
-      "key": "蜡笔",
-      "name": "蜡笔📀4K",
+      "key": "盘链",
+      "name": "盘链📀4K",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.labi88.sbs",
-          "https://feimao666.fun",
-          "http://feimao888.fun"
-        ]
-      }
+      "api": "csp_PanLian",
+      "timeout": 60
     },
     {
       "key": "至臻",
