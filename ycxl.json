@@ -747,12 +747,26 @@
       }
     },
     {
-      "key": "盘链",
-      "name": "盘链📀4K",
+      "key": "蜡笔",
+      "name": "蜡笔📀4K",
       "type": 3,
-      "api": "csp_PanLian",
-      "timeout": 60
-    },
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://xiaocge.fun",
+          "http://feimo.fun",
+          "https://feimao666.fun",
+          "http://feimao888.fun",
+          "http://www.labi88.sbs",
+          "http://fmao.site",
+          "http://fmao.shop",
+          "http://xiaocgege.shop"
+        ]
+      },
     {
       "key": "至臻",
       "name": "至臻📀4K",
