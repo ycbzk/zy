@@ -767,6 +767,8 @@
           "http://xiaocgege.shop"
         ]
       },
+      "timeout": 60
+    },
     {
       "key": "至臻",
       "name": "至臻📀4K",
