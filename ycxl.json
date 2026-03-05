@@ -1024,28 +1024,24 @@
       }
     },
     {
-      "key": "UC盘搜",
-      "name": "UC🔍搜索",
+      "key": "盘搜",
+      "name": "盘搜🔍搜索",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cloudDrives": "uc"
-      }
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60
     },
     {
-      "key": "123盘搜",
-      "name": "123🔍搜索",
+      "key": "影链",
+      "name": "影链🔍搜索",
       "type": 3,
-      "api": "csp_PanSou",
+      "api": "csp_Yinglian",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cloudDrives": "123"
-      }
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60
     },
     {
       "key": "糖果",
@@ -1053,86 +1049,65 @@
       "type": 3,
       "api": "csp_TGSou",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "阿里盘搜",
-      "name": "阿里🔍搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cloudDrives": "aliyun"
-      }
-    },
-    {
-      "key": "夸克盘搜",
-      "name": "夸克🔍搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cloudDrives": "quark"
-      }
-    },
-    {
-      "key": "天翼盘搜",
-      "name": "天翼🔍搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cloudDrives": "tianyi"
-      }
-    },
-    {
-      "key": "百度盘搜",
-      "name": "百度🔍搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cloudDrives": "baidu"
-      }
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60
     },
     {
       "key": "百酷",
       "name": "百酷🔍搜索",
       "type": 3,
-      "api": "csp_Baiku"
+      "api": "csp_Baiku",
+      "timeout": 60
     },
     {
       "key": "米搜",
       "name": "米搜🔍搜索",
       "type": 3,
-      "api": "csp_MiSou"
+      "api": "csp_MiSou",
+      "timeout": 60
     },
     {
-      "key": "酷乐搜索",
+      "key": "酷乐",
       "name": "酷乐🔍搜索",
       "type": 3,
-      "api": "csp_KuLe"
+      "api": "csp_KuLe",
+      "timeout": 60
     },
     {
-      "key": "爱看搜索",
-      "name": "爱看🔍搜索",
-      "type": 3,
-      "api": "csp_AiKan"
-    },
-    {
-      "key": "鬼鬼搜索",
+      "key": "鬼鬼",
       "name": "鬼鬼🔍搜索",
       "type": 3,
-      "api": "csp_GuiGui"
+      "api": "csp_GuiGui",
+      "timeout": 60
+    },
+    {
+      "key": "混合",
+      "name": "混合🔍搜索",
+      "type": 3,
+      "api": "csp_HunHePan",
+      "timeout": 60
+    },
+    {
+      "key": "兄弟",
+      "name": "兄弟🔍搜索",
+      "type": 3,
+      "api": "csp_XiongDiPan",
+      "timeout": 60
+    },
+    {
+      "key": "天翼",
+      "name": "天翼🔍搜索",
+      "type": 3,
+      "api": "csp_TianYiSo",
+      "timeout": 60
+    },
+    {
+      "key": "趣盘",
+      "name": "趣盘🔍搜索",
+      "type": 3,
+      "api": "csp_QuPanSo",
+      "timeout": 60
     },
     {
       "key": "甜圈短剧",
