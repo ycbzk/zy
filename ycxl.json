@@ -615,6 +615,23 @@
       "filterable": 1
     },
     {
+      "key": "荐片",
+      "name": "荐片🧲磁力",
+      "api": "csp_JianPian",
+      "type": 3
+    },
+    {
+      "key": "雪花",
+      "name": "雪花🧲磁力",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/magnet/json/XH.json"
+    },
+    {
       "key": "修罗",
       "name": "修罗🧲磁力",
       "api": "csp_Xlys",
@@ -632,6 +649,16 @@
       "ext": {
         "url": "https://www.pkmp4.xyz,https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
       }
+    },
+    {
+      "key": "电影港",
+      "name": "电影港🧲磁力",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/magnet/json/DYG.json"
     },
     {
       "key": "迅雷吧",
