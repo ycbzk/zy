@@ -1005,13 +1005,6 @@
       }
     },
     {
-      "key": "盘链",
-      "name": "盘链📀4K",
-      "type": 3,
-      "api": "csp_PanLian",
-      "timeout": 60
-    },
-    {
       "key": "人人",
       "name": "人人📀4K",
       "type": 3,
@@ -1040,16 +1033,6 @@
       "name": "盘搜🔍搜索",
       "type": 3,
       "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "timeout": 60
-    },
-    {
-      "key": "影链",
-      "name": "影链🔍搜索",
-      "type": 3,
-      "api": "csp_Yinglian",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
