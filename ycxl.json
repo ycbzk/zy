@@ -465,6 +465,15 @@
       }
     },
     {
+      "key": "瓜子影视",
+      "name": "瓜子💥影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "永乐影视",
       "name": "永乐💥影视",
       "type": 3,
@@ -527,15 +536,6 @@
       "name": "苹果💥影视",
       "type": 3,
       "api": "csp_LiteApple"
-    },
-    {
-      "key": "瓜子影视",
-      "name": "瓜子💥影视",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "骚火影视",
