@@ -37,6 +37,31 @@
       }
     },
     {
+      "key": "金牌",
+      "name": "金牌🔥弹幕",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://qj3.ggtvb.cc",
+        "dataKey": "eecbio48dsq13kkk",
+        "dataIv": "eecbio48dsq13kkk",
+        "search": "searchList4",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "云播",
+      "name": "云播🔥弹幕",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppFox",
+      "ext": "http://app.hktvyb.cc"
+    },
+    {
       "key": "三秋影视",
       "name": "三秋🔥弹幕",
       "type": 3,
