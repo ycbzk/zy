@@ -53,15 +53,6 @@
       }
     },
     {
-      "key": "云播",
-      "name": "云播🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppFox",
-      "ext": "http://app.hktvyb.cc"
-    },
-    {
       "key": "三秋影视",
       "name": "三秋🔥弹幕",
       "type": 3,
@@ -97,6 +88,15 @@
         "dataKey": "7SDWjknU34zqFbVr",
         "dataIv": "7SDWjknU34zqFbVr"
       }
+    },
+    {
+      "key": "云播",
+      "name": "云播🔥弹幕",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppFox",
+      "ext": "http://app.hktvyb.cc"
     },
     {
       "key": "橘皮",
