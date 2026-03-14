@@ -1226,6 +1226,18 @@
       "类型": "短剧"
     },
     {
+      "key": "方舟动漫",
+      "name": "方舟🧸动漫",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://www.cyfz.top",
+        "dataKey": "e72cdfd629e8895d",
+        "dataIv": "e72cdfd629e8895d"
+      }
+    },
+    {
       "key": "漫国",
       "name": "漫国🧸动漫",
       "type": 3,
@@ -1238,19 +1250,15 @@
       }
     },
     {
-      "key": "冬日",
-      "name": "冬日🧸动漫",
+      "key": "丫丫动漫",
+      "name": "丫丫🧸动漫",
       "type": 3,
-      "quickSearch": 1,
+      "searchable": 1,
       "api": "csp_AppGet",
       "ext": {
-        "url": "http://www.drdm.fun",
-        "site": "",
-        "dataKey": "qE2nD0rL1lH4uP9r",
-        "dataIv": "qE2nD0rL1lH4uP9r",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
+        "url": "http://tv.yy-fun.cc",
+        "dataKey": "qkxnwkfjwpcnwycl",
+        "dataIv": "qkxnwkfjwpcnwycl"
       }
     },
     {
@@ -1264,22 +1272,6 @@
         "site": "",
         "dataKey": "ygcnb9bdcmb8aeiw",
         "dataIv": "ygcnb9bdcmb8aeiw",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
-      "key": "方舟",
-      "name": "方舟🧸动漫",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.cyfz.vip",
-        "site": "",
-        "dataKey": "e72cdfd629e8895d",
-        "dataIv": "e72cdfd629e8895d",
         "deviceId": "",
         "version": "",
         "ua": ""
