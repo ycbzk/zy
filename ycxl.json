@@ -37,6 +37,20 @@
       }
     },
     {
+      "key": "爱影",
+      "name": "爱影🔥弹幕",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q19.txt",
+        "dataKey": "fff32466kkfff616",
+        "dataIv": "fff32466kkfff616",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "金牌",
       "name": "金牌🔥弹幕",
       "type": 3,
@@ -57,6 +71,19 @@
       "name": "三秋🔥弹幕",
       "type": 3,
       "api": "csp_App3Q"
+    },
+    {
+      "key": "仓鼠",
+      "name": "仓鼠🔥弹幕",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://cs450appcms.cs4k.top",
+        "dataKey": "cD7wZ7iY6qN3sU1z",
+        "dataIv": "cD7wZ7iY6qN3sU1z"
+      }
     },
     {
       "key": "坚果影视",
@@ -736,11 +763,14 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.wogg.one",
+          "https://wogg.xxooo.cf",
+          "https://woggpan.888484.xyz",
           "https://wogg.333232.xyz",
-          "https://woggpan.888484.xyz"
+          "http://woggpan.xxooo.cf",
+          "https://www.wogg.one"
         ]
-      }
+      },
+      "timeout": 60
     },
     {
       "key": "快映",
