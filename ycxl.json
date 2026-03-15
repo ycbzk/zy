@@ -67,6 +67,35 @@
       }
     },
     {
+      "key": "琪琪",
+      "name": "琪琪🔥弹幕",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://110.42.67.221:8009",
+        "dataKey": "123456789abcdefg",
+        "dataIv": "123456789abcdefg",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "小猪",
+      "name": "小猪🔥弹幕",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/wenxintishi.txt",
+        "dataKey": "h2t8fjo964j2sl6a",
+        "dataIv": "h2t8fjo964j2sl6a",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "三秋影视",
       "name": "三秋🔥弹幕",
       "type": 3,
@@ -368,14 +397,14 @@
       "key": "秒看",
       "name": "秒看🔥弹幕",
       "type": 3,
-      "quickSearch": 1,
       "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
       "ext": {
         "site": "https://mk1080.top/get.txt",
         "dataKey": "c60d88b2eep53za8",
         "dataIv": "c60d88b2eep53za8",
-        "token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
-        "ua": "okhttp/3.10.0"
+        "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
       }
     },
     {
