@@ -37,20 +37,6 @@
       }
     },
     {
-      "key": "爱影",
-      "name": "爱影🔥弹幕",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q19.txt",
-        "dataKey": "fff32466kkfff616",
-        "dataIv": "fff32466kkfff616",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "金牌",
       "name": "金牌🔥弹幕",
       "type": 3,
@@ -285,13 +271,6 @@
         "dataKey": "5a9w6x58dsq6z3a6",
         "dataIv": "5a9w6x58dsq6z3a6"
       }
-    },
-    {
-      "key": "搜搜",
-      "name": "搜搜🔥弹幕",
-      "type": 3,
-      "api": "csp_AppFox",
-      "ext": "https://www.zjcvod.com"
     },
     {
       "key": "粉象",
