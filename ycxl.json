@@ -124,11 +124,11 @@
       "key": "小羊",
       "name": "小羊🔥弹幕",
       "type": 3,
-      "api": "csp_AppGet",
+      "api": "csp_AppQi",
       "ext": {
-        "site": "https://xy4k.com/url.txt",
-        "dataKey": "7SDWjknU34zqFbVr",
-        "dataIv": "7SDWjknU34zqFbVr"
+        "url": "https://qjappcms410.xy4k.com",
+        "dataKey": "mC6kG4mI1uM8tS4o",
+        "dataIv": "mC6kG4mI1uM8tS4o"
       }
     },
     {
