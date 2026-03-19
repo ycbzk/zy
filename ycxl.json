@@ -37,6 +37,19 @@
       }
     },
     {
+      "key": "不错",
+      "name": "不错🔥弹幕",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://zbc4kmcs.zbc4k.app",
+        "dataKey": "vE4kR7cF6jS6jH7a",
+        "dataIv": "vE4kR7cF6jS6jH7a"
+      }
+    },
+    {
       "key": "爱影",
       "name": "爱影🔥弹幕",
       "type": 3,
@@ -130,19 +143,6 @@
       "name": "三秋🔥弹幕",
       "type": 3,
       "api": "csp_App3Q"
-    },
-    {
-      "key": "仓鼠",
-      "name": "仓鼠🔥弹幕",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://cs450appcms.cs4k.top",
-        "dataKey": "cD7wZ7iY6qN3sU1z",
-        "dataIv": "cD7wZ7iY6qN3sU1z"
-      }
     },
     {
       "key": "坚果影视",
