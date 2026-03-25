@@ -66,21 +66,6 @@
       }
     },
     {
-      "key": "星河",
-      "name": "星河🔥弹幕",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
-        "dataKey": "kj37zs29q22jk96t",
-        "dataIv": "kj37zs29q22jk96t",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "星空",
       "name": "星空🔥弹幕",
       "type": 3,
@@ -137,12 +122,6 @@
         "dataIv": "h2t8fjo964j2sl6a",
         "ua": "okhttp/3.10.0"
       }
-    },
-    {
-      "key": "三秋影视",
-      "name": "三秋🔥弹幕",
-      "type": 3,
-      "api": "csp_App3Q"
     },
     {
       "key": "坚果影视",
@@ -203,19 +182,6 @@
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
-      "key": "段友",
-      "name": "段友🔥弹幕",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://shangjihuoke.com",
-        "dataKey": "8E2DC386FD452D05",
-        "dataIv": "8E2DC386FD452D05"
-      }
-    },
-    {
       "key": "黑猫",
       "name": "黑猫🔥弹幕",
       "type": 3,
@@ -226,22 +192,6 @@
         "url": "http://app1-0-0.87333.cc",
         "dataKey": "VwsHxkCViDXEExWa",
         "dataIv": "VwsHxkCViDXEExWa"
-      }
-    },
-    {
-      "key": "橘子",
-      "name": "橘子🔥弹幕",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt",
-        "dataKey": "jasaFBcdV3zrUDf2",
-        "dataIv": "jasaFBcdV3zrUDf2",
-        "version": "305",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
       }
     },
     {
@@ -283,15 +233,6 @@
       }
     },
     {
-      "key": "麻雀",
-      "name": "麻雀🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "searchable": 1,
-      "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
-      "ext": "http://118.89.203.120:8365/"
-    },
-    {
       "key": "王子",
       "name": "王子🔥弹幕",
       "type": 3,
@@ -304,18 +245,6 @@
       }
     },
     {
-      "key": "粉象",
-      "name": "粉象🔥弹幕",
-      "type": 3,
-      "api": "csp_AppFox",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "host": "http://host1.sopython.top/host.json",
-        "ver": 2
-      }
-    },
-    {
       "key": "麒麟",
       "name": "麒麟🔥弹幕",
       "type": 3,
@@ -324,17 +253,6 @@
       "ext": {
         "host": "https://qh.70qh.top",
         "ver": 2
-      }
-    },
-    {
-      "key": "芬奇",
-      "name": "芬奇🔥弹幕",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "site": "https://wsapi.dafenqi.mom/yuming.txt",
-        "dataKey": "bH5mI8iK0tK7aQ5x",
-        "dataIv": "bH5mI8iK0tK7aQ5x"
       }
     },
     {
@@ -363,21 +281,6 @@
         "url": "https://www.zipfve.cn",
         "dataKey": "1234567890987654",
         "dataIv": "1234567890987654"
-      }
-    },
-    {
-      "key": "爱盈",
-      "name": "爱盈🔥弹幕",
-      "type": 3,
-      "api": "csp_AppQi",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt",
-        "dataKey": "sda1231sasddad21",
-        "dataIv": "sda1231sasddad21",
-        "ua": "okhttp/3.10.0"
       }
     },
     {
@@ -460,22 +363,6 @@
       }
     },
     {
-      "key": "紫金",
-      "name": "紫金🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://www.zjcvod.com",
-        "site": "",
-        "dataKey": "ab4e9a421675f14b",
-        "dataIv": "ab4e9a421675f14b",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
       "key": "狂欢",
       "name": "狂欢🔥弹幕",
       "type": 3,
@@ -508,22 +395,6 @@
       }
     },
     {
-      "key": "五八",
-      "name": "五八🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://dy.58ys.vip",
-        "site": "",
-        "dataKey": "JEWibY1AgWF0V1xx",
-        "dataIv": "JEWibY1AgWF0V1xx",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
       "key": "驿站",
       "name": "驿站🔥弹幕",
       "type": 3,
@@ -540,22 +411,6 @@
       }
     },
     {
-      "key": "斗量",
-      "name": "斗量🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://app-cms-v10-1314306855.cos.ap-guangzhou.myqcloud.com/appcms.php",
-        "dataKey": "A1akVPQmnnE4Fz9Z",
-        "dataIv": "A1akVPQmnnE4Fz9Z",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
-      }
-    },
-    {
       "key": "瓜子影视",
       "name": "瓜子💥影视",
       "type": 3,
@@ -565,31 +420,12 @@
       "filterable": 1
     },
     {
-      "key": "永乐影视",
-      "name": "永乐💥影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json"
-    },
-    {
       "key": "韩国",
       "name": "韩国💥影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1275b576ff8340d0f20930745d5ac59c.jpg;md5;b8ccf68972d12e3983a93b35b4024345",
       "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/韩剧看看.json"
-    },
-    {
-      "key": "浪酷影视",
-      "name": "浪酷💥影视",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.lkuys.cn"
-      }
     },
     {
       "key": "厂长影视",
@@ -608,25 +444,6 @@
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-    },
-    {
-      "key": "云播影视",
-      "name": "云播💥影视",
-      "type": 3,
-      "api": "csp_Tvyb",
-      "ext": "http://www.viptv01.com"
-    },
-    {
-      "key": "奇优影视",
-      "name": "奇优💥影视",
-      "type": 3,
-      "api": "csp_Qiyou"
-    },
-    {
-      "key": "苹果影视",
-      "name": "苹果💥影视",
-      "type": 3,
-      "api": "csp_LiteApple"
     },
     {
       "key": "骚火影视",
@@ -649,20 +466,6 @@
         "dataIv": "ca94b06ca359d80e",
         "deviceId": "",
         "version": "120"
-      }
-    },
-    {
-      "key": "丫丫",
-      "name": "丫丫💥影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://tv.yy-fun.cc",
-        "dataKey": "qkxnwkfjwpcnwycl",
-        "dataIv": "qkxnwkfjwpcnwycl",
-        "deviceId": "",
-        "version": ""
       }
     },
     {
