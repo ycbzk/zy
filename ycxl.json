@@ -37,6 +37,69 @@
       }
     },
     {
+      "key": "琪琪",
+      "name": "琪琪🔥弹幕",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://110.42.67.221:8009",
+        "dataKey": "123456789abcdefg",
+        "dataIv": "123456789abcdefg",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "花猪",
+      "name": "花猪🔥弹幕",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/axiba.txt",
+        "dataKey": "h5w3d6g1j9s2h3f6",
+        "dataIv": "h5w3d6g1j9s2h3f6",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "云朵",
+      "name": "云朵🔥弹幕",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://yd4kcms.yd4k.top",
+        "dataKey": "Tpmm9FD99lJ8Dexa",
+        "dataIv": "Tpmm9FD99lJ8Dexa"
+      }
+    },
+    {
+      "key": "超前",
+      "name": "超前🔥弹幕",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "http://chaoqianys.top:91/api.php/app/"
+    },
+    {
+      "key": "极影",
+      "name": "极影🔥弹幕",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://101.201.171.207:802/api.php/app/"
+    },
+    {
       "key": "不错",
       "name": "不错🔥弹幕",
       "type": 3,
@@ -91,35 +154,6 @@
         "dataIv": "eecbio48dsq13kkk",
         "search": "searchList4",
         "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "琪琪",
-      "name": "琪琪🔥弹幕",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "http://110.42.67.221:8009",
-        "dataKey": "123456789abcdefg",
-        "dataIv": "123456789abcdefg",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "小猪",
-      "name": "小猪🔥弹幕",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/wenxintishi.txt",
-        "dataKey": "h2t8fjo964j2sl6a",
-        "dataIv": "h2t8fjo964j2sl6a",
         "ua": "okhttp/3.10.0"
       }
     },
