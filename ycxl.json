@@ -454,6 +454,20 @@
       "filterable": 1
     },
     {
+      "key": "农民影视",
+      "name": "农民💥影视",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+    {
+      "key": "永乐影视",
+      "name": "永乐💥影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json"
+    },
+    {
       "key": "韩国",
       "name": "韩国💥影视",
       "type": 3,
