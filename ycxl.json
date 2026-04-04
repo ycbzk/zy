@@ -52,20 +52,6 @@
       }
     },
     {
-      "key": "花猪",
-      "name": "花猪🔥弹幕",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/axiba.txt",
-        "dataKey": "h5w3d6g1j9s2h3f6",
-        "dataIv": "h5w3d6g1j9s2h3f6",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "云朵",
       "name": "云朵🔥弹幕",
       "type": 3,
@@ -98,19 +84,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://101.201.171.207:802/api.php/app/"
-    },
-    {
-      "key": "不错",
-      "name": "不错🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://zbc4kmcs.zbc4k.app",
-        "dataKey": "vE4kR7cF6jS6jH7a",
-        "dataIv": "vE4kR7cF6jS6jH7a"
-      }
     },
     {
       "key": "爱影",
