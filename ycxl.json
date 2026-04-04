@@ -76,16 +76,6 @@
       "ext": "http://chaoqianys.top:91/api.php/app/"
     },
     {
-      "key": "极影",
-      "name": "极影🔥弹幕",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://101.201.171.207:802/api.php/app/"
-    },
-    {
       "key": "爱影",
       "name": "爱影🔥弹幕",
       "type": 3,
@@ -99,19 +89,6 @@
         "init": "initV122",
         "search": "mineInfo",
         "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "星空",
-      "name": "星空🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://xkos1.xkgzs.xyz",
-        "dataKey": "77jkcdvdodfcdkjk",
-        "dataIv": "77jkcdvdodfcdkjk"
       }
     },
     {
