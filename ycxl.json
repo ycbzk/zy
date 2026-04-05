@@ -49,6 +49,21 @@
       }
     },
     {
+      "key": "琪琪",
+      "name": "琪琪🔥弹幕",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://110.42.67.221:8002",
+        "dataKey": "123456789abcdefg",
+        "dataIv": "123456789abcdefg",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "超前",
       "name": "超前🔥弹幕",
       "type": 3,
@@ -347,22 +362,6 @@
         "dataIv": "huohushipingetap",
         "deviceId": "",
         "version": "140",
-        "ua": ""
-      }
-    },
-    {
-      "key": "驿站",
-      "name": "驿站🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "",
-        "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
-        "dataKey": "dyyztvapiappyyds",
-        "dataIv": "dyyztvapiappyyds",
-        "deviceId": "",
-        "version": "",
         "ua": ""
       }
     },
