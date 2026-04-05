@@ -37,31 +37,15 @@
       }
     },
     {
-      "key": "琪琪",
-      "name": "琪琪🔥弹幕",
+      "key": "热播影视",
+      "name": "热播🔥弹幕",
       "type": 3,
-      "api": "csp_AppQi",
+      "api": "csp_AppRJ",
       "searchable": 1,
-      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
       "ext": {
-        "url": "http://110.42.67.221:8009",
-        "dataKey": "123456789abcdefg",
-        "dataIv": "123456789abcdefg",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "云朵",
-      "name": "云朵🔥弹幕",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://yd4kcms.yd4k.top",
-        "dataKey": "Tpmm9FD99lJ8Dexa",
-        "dataIv": "Tpmm9FD99lJ8Dexa"
+        "url": "http://v.rbotv.cn"
       }
     },
     {
@@ -332,18 +316,6 @@
         "dataIv": "062dec75d039980e",
         "deviceId": "",
         "version": ""
-      }
-    },
-    {
-      "key": "热播影视",
-      "name": "热播🔥弹幕",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
       }
     },
     {
