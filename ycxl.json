@@ -49,33 +49,55 @@
       }
     },
     {
-      "key": "琪琪",
-      "name": "琪琪🔥弹幕",
+      "key": "蓝鹰",
+      "name": "蓝鹰🔥弹幕",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "url": "http://110.42.67.221:8002",
-        "dataKey": "123456789abcdefg",
-        "dataIv": "123456789abcdefg",
-        "init": "initV122",
+        "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e",
+        "init": "initV120",
         "ua": "okhttp/3.10.0"
       }
     },
     {
-      "key": "花猪",
-      "name": "花猪🔥弹幕",
+      "key": "映画",
+      "name": "映画🔥弹幕",
       "type": 3,
-      "api": "csp_AppQi",
+      "api": "csp_AppGet",
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "site": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/axiba.txt",
-        "dataKey": "h5w3d6g1j9s2h3f6",
-        "dataIv": "h5w3d6g1j9s2h3f6",
-        "ua": "okhttp/3.10.0"
+        "url": "https://cms140.yhg.one/",
+        "dataKey": "bM7iC9eA3oZ1nB7z",
+        "dataIv": "bM7iC9eA3oZ1nB7z"
       }
+    },
+    {
+      "key": "星空",
+      "name": "星空🔥弹幕",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://xk7.xkgzs.xyz",
+        "dataKey": "107jkcdncofcdkjk",
+        "dataIv": "107jkcdncofcdkjk"
+      }
+    },
+    {
+      "key": "久久",
+      "name": "久久🔥弹幕",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://99cms.jj99.icu:8199/api.php/app/"
     },
     {
       "key": "老鹰",
