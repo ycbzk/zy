@@ -994,6 +994,17 @@
       "timeout": 60
     },
     {
+      "key": "围观短剧",
+      "name": "围观🎀短剧",
+      "type": 3,
+      "api": "csp_WeiguanDJ",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "genre": "shortdrama"
+    },
+    {
       "key": "甜圈短剧",
       "name": "甜圈🎀短剧",
       "type": 3,
@@ -1005,59 +1016,26 @@
       "genre": "shortdrama"
     },
     {
-      "key": "锦鲤短剧",
-      "name": "锦鲤🎀短剧",
-      "type": 3,
-      "api": "csp_JinliDJ",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "类型": "短剧"
-    },
-    {
-      "key": "星阁短剧",
-      "name": "星阁🎀短剧",
-      "type": 3,
-      "api": "csp_XinggeDJ",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "类型": "短剧"
-    },
-    {
-      "key": "碎片",
-      "name": "碎片🎀短剧",
-      "type": 3,
-      "api": "csp_SuipianDJ",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "类型": "短剧"
-    },
-    {
       "key": "星芽短剧",
       "name": "星芽🎀短剧",
       "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
+      "api": "./py/星芽短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "类型": "短剧"
+      "genre": "shortdrama"
     },
     {
       "key": "剧王短剧",
       "name": "剧王🎀短剧",
       "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py",
+      "api": "./py/剧王短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "类型": "短剧"
+      "genre": "shortdrama"
     },
     {
       "key": "方舟动漫",
