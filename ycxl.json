@@ -49,16 +49,68 @@
       }
     },
     {
-      "key": "首发",
-      "name": "首发🔥弹幕",
+      "key": "宫阁",
+      "name": "宫阁🔥弹幕",
+      "type": 3,
+      "api": "csp_App99",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://api.jciyuan.com/api",
+        "LoginPath": "/app/log",
+        "version": "",
+        "appkey": "193856c6f9b844e2b6c55d1ecc744593",
+        "versionName": "6.5.1",
+        "name": "落攻阁",
+        "package": "com.yuaiweiwu.aixue.lggys",
+        "buildNumber": "2001",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
+    },
+    {
+      "key": "飞飞",
+      "name": "飞飞🔥弹幕",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://qpcj.69mini.com/api.php/app/"
+    },
+    {
+      "key": "湘漓",
+      "name": "湘漓🔥弹幕",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": "https://ledayy.com"
+    },
+    {
+      "key": "嘉禾",
+      "name": "嘉禾🔥弹幕",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": "https://www.baidukuaiy.top"
+    },
+    {
+      "key": "峥嵘",
+      "name": "峥嵘🔥弹幕",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": "https://api2026.hboqy.cn"
+    },
+    {
+      "key": "金牌",
+      "name": "金牌🔥弹幕",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt",
-        "dataKey": "FTgP4Gq8zPiqbt7M",
-        "dataIv": "FTgP4Gq8zPiqbt7M",
+        "url": "https://qj4.catbb.xyz",
+        "dataKey": "eecbio48dsq13kkk",
+        "dataIv": "eecbio48dsq13kkk",
+        "search": "searchList4",
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       }
@@ -96,22 +148,6 @@
       }
     },
     {
-      "key": "追番99",
-      "name": "追番🔥弹幕",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "https://api.hboqy.cn.hboqy.cn/api",
-        "LoginPath": "/app/log",
-        "appkey": "a0a18659a9977a47e53442cd084b536c",
-        "versionName": "6.1.7",
-        "name": "追番达人",
-        "package": "com.android.packageinstaller",
-        "buildNumber": "2002",
-        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
-      }
-    },
-    {
       "key": "剧圈99",
       "name": "剧圈🔥弹幕",
       "type": 3,
@@ -144,22 +180,6 @@
         "site": "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
         "version": "5.0.0.1",
         "decrypt": "0"
-      }
-    },
-    {
-      "key": "听心99",
-      "name": "听心🔥弹幕",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "https://api.12321app.com/api",
-        "LoginPath": "/app/log",
-        "appkey": "a0a18659a9977a47e53442cd084b536c",
-        "versionName": "2.8.1",
-        "name": "听心视频",
-        "package": "com.iksp.adsys.jjsp",
-        "buildNumber": "2001",
-        "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
       }
     },
     {
@@ -247,53 +267,6 @@
       }
     },
     {
-      "key": "顾我",
-      "name": "顾我🔥弹幕",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "顾我追剧",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "publicIv": "ed5fdsgucxumegqa",
-        "dataKey": "QK40VUWYWE45L0DOSTVOTEP0AM44PQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.bingewatch.android",
-        "host": "",
-        "site": "https://guwoandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_guwozhuijuandroid.txt",
-        "version": "2.0.0.1",
-        "decrypt": "0"
-      }
-    },
-    {
-      "key": "金都",
-      "name": "金都🔥弹幕",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://cmm.jindou11.top",
-        "dataKey": "weyuhgiohgsytwhj",
-        "dataIv": "weyuhgiohgsytwhj"
-      }
-    },
-    {
-      "key": "猎豹",
-      "name": "猎豹🔥弹幕",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://444421.xyz",
-        "dataKey": "#getapp@TMD@2025",
-        "dataIv": "#getapp@TMD@2025"
-      }
-    },
-    {
       "key": "蓝鹰",
       "name": "蓝鹰🔥弹幕",
       "type": 3,
@@ -306,32 +279,6 @@
         "dataIv": "ca94b06ca359d80e",
         "init": "initV120",
         "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "映画",
-      "name": "映画🔥弹幕",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://cms140.yhg.one/",
-        "dataKey": "bM7iC9eA3oZ1nB7z",
-        "dataIv": "bM7iC9eA3oZ1nB7z"
-      }
-    },
-    {
-      "key": "星空",
-      "name": "星空🔥弹幕",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "http://xk7.xkgzs.xyz",
-        "dataKey": "107jkcdncofcdkjk",
-        "dataIv": "107jkcdncofcdkjk"
       }
     },
     {
@@ -359,15 +306,6 @@
       }
     },
     {
-      "key": "云播",
-      "name": "云播🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppFox",
-      "ext": "http://app.hktvyb.cc"
-    },
-    {
       "key": "橘皮",
       "name": "橘皮🔥弹幕",
       "type": 3,
@@ -375,30 +313,6 @@
       "playerType": 1,
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
-    },
-    {
-      "key": "黑猫",
-      "name": "黑猫🔥弹幕",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "http://app1-0-0.87333.cc",
-        "dataKey": "VwsHxkCViDXEExWa",
-        "dataIv": "VwsHxkCViDXEExWa"
-      }
-    },
-    {
-      "key": "巧技",
-      "name": "巧技🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/巧技2.jar",
-      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
     },
     {
       "key": "茉莉",
@@ -426,30 +340,6 @@
       }
     },
     {
-      "key": "麒麟",
-      "name": "麒麟🔥弹幕",
-      "type": 3,
-      "changeable": 0,
-      "api": "csp_AppFox",
-      "ext": {
-        "host": "https://qh.70qh.top",
-        "ver": 2
-      }
-    },
-    {
-      "key": "缘梦",
-      "name": "缘梦🔥弹幕",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.zipfve.cn",
-        "dataKey": "1234567890987654",
-        "dataIv": "1234567890987654"
-      }
-    },
-    {
       "key": "闪影",
       "name": "闪影🔥弹幕",
       "type": 3,
@@ -470,52 +360,6 @@
         "url": "http://211.154.24.56:8369",
         "dataKey": "685bf108bc47b67d",
         "dataIv": "685bf108bc47b67d"
-      }
-    },
-    {
-      "key": "数字",
-      "name": "数字🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://app1-0-0.87333.cc",
-        "site": "",
-        "dataKey": "VwsHxkCViDXEExWa",
-        "dataIv": "VwsHxkCViDXEExWa",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "火锅",
-      "name": "火锅🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://ios.hgyx.vip",
-        "site": "",
-        "dataKey": "062dec75d039980e",
-        "dataIv": "062dec75d039980e",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "狂欢",
-      "name": "狂欢🔥弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://m.m.m.kahzw.com",
-        "site": "",
-        "dataKey": "xnybssspqtwotuwj",
-        "dataIv": "xnybssspqtwotuwj",
-        "deviceId": "",
-        "version": "",
-        "ua": ""
       }
     },
     {
