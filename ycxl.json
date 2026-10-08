@@ -249,6 +249,13 @@
       }
     },
     {
+      "key": "旺旺影视",
+      "name": "旺旺💥影视",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+    {
       "key": "枫叶影视",
       "name": "枫叶💥影视",
       "type": 3,
@@ -278,6 +285,31 @@
       "api": "csp_SaoHuo",
       "playerType": 2,
       "ext": "https://shdy5.us"
+    },
+    {
+      "key": "飞娱影视",
+      "name": "飞娱💥影视",
+      "type": 3,
+      "api": "csp_Feiyu"
+    },
+    {
+      "key": "独播影视",
+      "name": "独播💥影视",
+      "type": 3,
+      "api": "csp_Duboku"
+    },
+    {
+      "key": "面包影视",
+      "name": "面包💥影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
+        "简介": "简介：&&"
+      }
     },
     {
       "key": "三六零",
